@@ -1,0 +1,185 @@
+{
+  "Categories": [
+    {
+      "cat_name": "ADVANTURE",
+      "img": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Advanture.jpg"
+    },
+    {
+      "cat_name": "BIOGRAPHY",
+      "img": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Biography.png"
+    },
+    {
+      "cat_name": "BUSINESS",
+      "img": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Business.png"
+    },
+    {
+      "cat_name": "ECONOMICS",
+      "img": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Economics.png"
+    },
+    {
+      "cat_name": "HEALTH",
+      "img": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Health.png"
+    },
+    {
+      "cat_name": "HISTORICAL",
+      "img": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Historical.png"
+    },
+     {
+      "cat_name": "MATHEMATICS",
+      "img": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Mathemetics.png"
+    },
+    {
+      "cat_name": "PHILOSOPHY",
+      "img": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Philosophy.jpg"
+    }
+  ],
+  "Books": [
+    {
+      "author": "Thornton W.Burgess",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Advanture/The%20Adventures%20of%20Buster%20Bear.png",
+      "book_name": "The Advantures Of Buster Bear",
+      "book_url": "https://mp3wale.info/uploads/file/5c383ac337139.mp3",
+      "book_description": "The classic book, The Adventures of Buster Bear, by Thornton W. Burgess.",
+      "is_featured": False,
+      "category": "ADVANTURE"
+    },
+    {
+      "author": "Omoruyi Uwuigiaren",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Advanture/The%20Adventures%20of%20Nihu.jpg",
+      "book_name": "The Advantures Of Nihu",
+      "book_url": "https://mp3wale.info/uploads/file/5c41928093267.mp3",
+      "book_description": "Nihu is falsely accused of a crime and is banished to the Lonely Forest. He is challenged with a mission by a magical character. As brave Nihu quests to fulfill the mission and gain his freedom, he is sucked into a world inside of a stone, visits a powerful ruler in an underwater city, and makes friends with a group of refugees only a hero could love.",
+      "is_featured": False,
+      "category": "ADVANTURE"
+    },
+    {
+      "author": "Francis L.Hawks",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Advanture/The-Adventures-of-Daniel-Boone.png",
+      "book_name": "The Adventures of Daniel Boone",
+      "book_url": "https://jndwalls.in/TaiyAb/Adventure/The-Adventures-of-Daniel-Boone.pdf",
+      "book_description": "The Adventures of Col. Daniel Boone was subsequently published in The American Magazine in 1787 and again in a book by George Imlay in 1793. The latter publication is the source wherein we present the complete text.The publication of Daniel Boone's Adventures in 1784 served to immortalize Boone the frontiersman as an American legend and a true folk hero. Published by John Filson on Boone's 50th birthday, the narrative describes in Boone's own words his exploits",
+      "is_featured": False,
+      "category": "ADVANTURE"
+    },
+    {
+      "author": "William Allan",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Biography/51A1zkATqAS._SX331_BO1%2C204%2C203%2C200_.jpg",
+      "book_name": "The Facts About Shakespeare",
+      "book_url": "https://drive.google.com/uc?export=download&id=1OLBRmsH7O45la4E1ns__mUgF8NMc3Wyx",
+      "book_description": "This is a pre-1923 historical reproduction that was curated for quality. Quality assurance was conducted on each of these books in an attempt to remove books with imperfections introduced by the digitization process. Though we have made best efforts - the books may have occasional errors that do not impede the reading experience. We believe this work is culturally important and have elected to bring the book back into print as part of our continuing commitment to the preservation of printed works worldwide.",
+      "is_featured": True,
+      "category": "BIOGRAPHY"
+    },
+    {
+      "author": "Russell H.Conwell",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Business/Acres-of-Diamonds.jpg",
+      "book_name": "Acres of Diamonds",
+      "book_url": "https://jndwalls.in/TaiyAb/Business/Acres-of-Diamonds.pdf",
+      "book_description": "Includes Conwell's 'Acres of Diamonds' and Robert Shackleton's 'His Life and Achievements'. 'Acres of Diamonds' is a lecture that Russell Conwell, founder of Temple University, delivered more than 6,000 times across the country...",
+      "is_featured": False,
+      "category": "BUSINESS"
+    },
+    {
+      "author": "Walter Dill Scott",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Business/Increasing-Efficiency-In-Business.jpg",
+      "book_name": "Increasing Efficiency In Business",
+      "book_url": "https://jndwalls.in/TaiyAb/Business/Increasing-Efficiency-In-Business.pdf",
+      "book_description": "Increasing Efficiency In Business is a classic business studies text by Walter Dill Scott. THE modern business man is the true heir of the old magicians. Every thing he touches seems to increase ten or a hundredfold in value and usefulness. All the old methods, old tools, old instruments have yielded to his transforming spell or else been discarded for new and more effective substitutes. In a thousand industries the profits of to-day are wrung from the wastes or unconsidered trifles of yesterday.",
+      "is_featured": True,
+      "category": "BUSINESS"
+    },
+    {
+      "author": "George Randolph Chester",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Business/The-Early-Bird.jpg",
+      "book_name": "The Early Bird",
+      "book_url": "https://jndwalls.in/TaiyAb/Business/The-Early-Bird.pdf",
+      "book_description": "The Early Bird: A Business Man's Love Story",
+      "is_featured": False,
+      "category": "BUSINESS"
+    },
+    {
+      "author": "Dave and Chana Mason",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Business/The-Size-of-Your-Dreams.jpg",
+      "book_name": "The Size of Your Dreams",
+      "book_url": "https://drive.google.com/uc?export=download&id=1YGS3MN9-YZb9zONBFkJRf5bX53X8uvuW",
+      "book_description": "What if you could transform your life, your health, your relationships, your finances, and your self-esteem in just five minutes a day?What if you could learn to do all of that while being engrossed in a story that brings the techniques you’ll need to life Introducing a groundbreaking novel that’s been compared to The Karate Kid, Dead Poets Society, and Way of the Peaceful Warrior...",
+      "is_featured": False,
+      "category": "BUSINESS"
+    },
+    {
+      "author": "Internet Source",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Economics/Forex-Trading-Secrets.jpg",
+      "book_name": "Forex Trading Secrets",
+      "book_url": "https://drive.google.com/uc?export=download&id=1QIAXMxbvDlVuXfYTL8BBfvZxjnUUszia",
+      "book_description": "the Foreign Exchangewas a market reserved for a select few.Now, anyone can actively trade in this profitablemarket―even those with no formal financialeducation. Enter James Dicks, a leading FOREXexpert and educator who cut his teeth in thisburgeoning market and wants to share his yearsof experienced wisdom with you.",
+      "is_featured": False,
+      "category": "ECONOMICS"
+    },
+    {
+      "author": "Internet Source",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Economics/Internet-Marketing-Secrets.jpg",
+      "book_name": "Internet Marketing Secrets",
+      "book_url": "https://drive.google.com/uc?export=download&id=1qGudtpMkTCBUv4S6iyhvJamkLsm68Eub",
+      "book_description": "Secrets of Internet Marketing & Marketing techniques",
+      "is_featured": False,
+      "category": "ECONOMICS"
+    },
+    {
+      "author": "By Thrivelearning Institute Library",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Health/health-and-wealth-magnetism-1.jpg",
+      "book_name": "Health & Wealth Magnetism",
+      "book_url": "https://drive.google.com/uc?export=download&id=1udE5OByCbGsLQB-spwNTZD6Jz0EHecT1",
+      "book_description": "Your health and wealth improves by a proper blend of spiritual and material principles. What are these principles? In this Book, we try to understand these enigmatic principles of life.",
+      "is_featured": True,
+      "category": "HEALTH"
+    },
+    {
+      "author": "Debbie Boek",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Historical/If%20Not%20For%20The%20Knight.jpg",
+      "book_name": "If Not For the Knight",
+      "book_url": "https://drive.google.com/uc?export=download&id=15wxOdyAbH9-V9YGt1H4x_xrNhN1D1E_a",
+      "book_description": "This is the first book in the Knights Are Forever series and takes place in 1066, when the Normans brutally defeat the Saxons and William the Conqueror is crowned the King of England. Against his wishes, Calder Wyndym, one of the king’s most valued knights, becomes Overlord of a small village in the North.",
+      "is_featured": False,
+      "category": "HISTORICAL"
+    },
+    {
+      "author": "Think.Lab, Athens, Greece",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Philosophy/Cosmology.jpg",
+      "book_name": "Cosmology",
+      "book_url": "https://drive.google.com/uc?export=download&id=15gmaMvTv9nRO3LPKVunYvR5jgjeqyGka",
+      "book_description": "Cosmology (the study of the physical universe) is a science that, due to both theoretical and observational developments, has made enormous strides in the past 100 years. It began as a branch of theoretical physics through Einstein’s 1917 static model of the universe (Einstein 1917) and was developed in its early days particularly through the work of Lemaître (1927).[1] As recently as 1960, cosmology was widely regarded as a branch of philosophy.",
+      "is_featured": False,
+      "category": "PHILOSOPHY"
+    },
+    {
+      "author": "Selvam Sivakumar",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Philosophy/Human%20Being.jpg",
+      "book_name": "Human Being",
+      "book_url": "https://drive.google.com/uc?export=download&id=1uTeAy7nM8v8FQKrNXgymzTg5woykzTBU",
+      "book_description": "This book, a simple overview, talks about how life came into existence, and various factors influencing a human life. I examine the interplay of evolution, society, human thoughts & behaviors, business & jobs, and technology. Then I investigate purpose of human life and what is beyond survival and reproduction. It addresses two important questions
+ 1. What shaped us?
+ 2. Where are we heading towards?",
+      "is_featured": False,
+      "category": "PHILOSOPHY"
+    },
+     {
+      "author": "AiR",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Philosophy/I%20will%20never%20die.jpg",
+      "book_name": "I Will Never Die",
+      "book_url": "https://drive.google.com/uc?export=download&id=1LjOi-De5eXdkLZh86552L7PDgUa_5OdZ",
+      "book_description": "“I will Never Die” is a simple analysis of life and death, which reassures us that death is not “The End”. Of course, the physical body will die, but I will never die. There is something beyond death. What lies beyond death may not be clearly visible, but definitely, death is not the end.This book will help you discover the truth.",
+      "is_featured": False,
+      "category": "PHILOSOPHY"
+    },
+
+    {
+      "author": "Hacelock Ellis",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/Philosophy/THE%20DANCE%20OF%20LIFE.jpg",
+      "book_name": "The Dance Of Life",
+      "book_url": "https://drive.google.com/uc?export=download&id=1AryggaAJPhq6hgvwTpcVMRAqQbgGbI5q",
+      "book_description": "Scientists have long struggled to make pregnancy easier, safer, and more successful. In The Dance of Life, developmental and stem-cell biologist Magdalena Zernicka-Goetz takes us to the front lines of efforts to understand the creation of a human life.",
+      "is_featured": False,
+      "category": "PHILOSOPHY"
+    }
+  ]
+}

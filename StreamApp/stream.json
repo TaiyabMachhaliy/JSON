@@ -1,0 +1,152 @@
+{
+	"Categories":[
+		{
+			"cat_name":"Entertainment",
+			"img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/category/entertainment.png"
+		},
+		{
+			"cat_name":"Sports",
+			"img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/category/sports.png"
+		},
+		{
+			"cat_name":"News",
+			"img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/category/news.png"
+		},
+		{
+			"cat_name":"Universe",
+			"img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/category/universe.png"
+		},
+		{
+			"cat_name":"Gaming",
+			"img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/category/gaming.png"
+		}
+	],
+	"Books":[
+             {
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/Republic%20Riders.jpg",
+			"book_name":"The CRAZIEST extreme sports game of all time - Riders Republic",
+			"book_url":"https://trainbit.com/files/7017147484/(PS5)_The_CRAZIEST_extreme_sports_game_of_all_time_-_Riders_Republic_-_Ultra_High_Realistic_Graphics.mp4",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy ",
+			"is_featured":true,
+			"category":"Gaming,Entertainment"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/Forza%20horizon%204.jpg",
+			"book_name":"Forza Horizon 4 Gameplay",
+			"book_url":"http://tb28.trainbit.com:8080/files/4117147484/v37456394248442B2F6E3157494679734559324E34544C5851495A3434745970576F75305669664845594B657469734A2F52436C654E673D3D/Forza_Horizon_4_-_Koenigsegg_Jesko___Goliath_Race_Gameplay.mp4",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy ",
+			"is_featured":true,
+			"category":"Gaming,Entertainment"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/boss%20baby.png",
+			"book_name":"The Boss Baby Memorable Moments",
+			"book_url":"http://tb28.trainbit.com:8080/files/6617147484/v37456394248442B2F6E31566667554E32757A63463570324E776B79595756776655416754346135486F4E6B3D/The_Boss_Baby_-_Boss_Baby_Memorable_Moments.mkv",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text ",
+			"is_featured":true,
+			"category":"Entertainment"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/Big%20hero%206.png",
+			"book_name":"Big Hero 6",
+			"book_url":"http://tb28.trainbit.com:8080/files/3617147484/v37456394248442B2F6E315649416149594C7375534E666C7A374865336D38617655462B6F65334764584435766F757768737976324C673D3D/Big_Hero_6___Bot_Fight___4K_60fps.mp4",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text ",
+			"is_featured":true,
+			"category":"Entertainment"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/Ralph%20Breaks%20the%20Internet.png",
+			"book_name":"Ralph Breaks The Internet",
+			"book_url":"http://tb28.trainbit.com:8080/files/4617147484/v37456394248442B2F6E31576A2B477635464C485764664F616555744C563052366B49787938524C70553231776B786850424172556D513D3D/Ralph_Breaks_The_Internet_(2018)_-_Sugar_Rush_Race__HDR_-_4K_-_5.1_.mp4",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text ",
+			"is_featured":true,
+			"category":"Entertainment"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/sports_all.png",
+			"book_name":"Goals that science can't explain",
+			"book_url":"http://tb28.trainbit.com:8080/files/5017147484/v37456394248442B2F6E3155622F504D30685A74447346682F64347679576249365134672F6730634B78734746747655756836364930513D3D/Goals_that_science_can39t_explain.mkv",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+			"is_featured":false,
+			"category":"Sports"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/sports_all.png",
+			"book_name":"Legendary No Touch Skills in Football",
+			"book_url":"http://tb28.trainbit.com:8080/files/1017147484/v37456394248442B2F6E315652792B3061677131664B677A65314D6E4930746C646A31413561717543434D7357504169773443715A41673D3D/Legendary_No_Touch_Skills_in_Football.mkv",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+			"is_featured":false,
+			"category":"Sports"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/sports_all.png",
+			"book_name":"Unluckiest Moments In Football",
+			"book_url":"http://tb28.trainbit.com:8080/files/6017147484/v37456394248442B2F6E315678415048654A7A4F7769697476554A545777644458497634586856546638705A722F6652324E506D2B31513D3D/Unluckiest_Moments_In_Football.mp4",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+			"is_featured":false,
+			"category":"Sports"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/ndtv_news.png",
+			"book_name":"NDTV 24x7",
+			"book_url":"https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@1.m3u8",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy",
+			"is_featured":false,
+			"category":"News"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/ndtv_news.png",
+			"book_name":"NDTV INDIA",
+			"book_url":"https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is",
+			"is_featured":true,
+			"category":"News"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/ndtv_news.png",
+			"book_name":"NDTV PROFIT",
+			"book_url":"https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@3.m3u8",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+			"is_featured":false,
+			"category":"News"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/universe.png",
+			"book_name":"Hubble The Final Frontier - Official Final Film",
+			"book_url":"http://tb28.trainbit.com:8080/files/8217147484/v37456394248442B2F6E315747434E79667968444C66734A5544586567547334334555752F6C745A486D766C2B315653397643497A4C413D3D/4K_-_Hubble_The_Final_Frontier_-_Official_Final_Film_Planetarium_Cut.mp4",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply text",
+			"is_featured":false,
+			"category":"Universe"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/universe.png",
+			"book_name":"Origins of the Universe 101 - National Geographic",
+			"book_url":"http://tb28.trainbit.com:8080/files/2217147484/v37456394248442B2F6E3155734B317963694D504E4A7164307767762F7732706F774A53774178384B647369535164544D5366526969673D3D/Origins_of_the_Universe_101_-_National_Geographic.mp4",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy ",
+			"is_featured":true,
+			"category":"Universe"
+		},
+		{
+			"author":"Author name",
+			"book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/StreamApp/Graphics/items/universe.png",
+			"book_name":"Solar System - National Geographic",
+			"book_url":"http://tb28.trainbit.com:8080/files/1117147484/v37456394248442B2F6E3156434C394E4B6C66447141793232442F49516C7673483258356B71562F3234456A4B33747355635A663342773D3D/Solar_System_101_-_National_Geographic.mkv",
+			"book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy ",
+			"is_featured":true,
+			"category":"Universe"
+		}
+	]
+}

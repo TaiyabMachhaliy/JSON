@@ -1,0 +1,39 @@
+[
+   {
+      "type":"2",
+      "slider_name":"Super Minimal",
+      "cat_id":"17",
+      "cat_name":"Super Minimal",
+      "slider_img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/MiniWall/iminiwall_slider_images/miniwall%20super.png",
+      "url":null,
+      "position":"4"
+   },
+   {
+      "type":"2",
+      "slider_name":"Amoled",
+      "cat_id":"7",
+      "cat_name":"Amoled",
+      "slider_img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/MiniWall/iminiwall_slider_images/miniwall_amoled.png",
+      "url":null,
+      "position":"3"
+   },
+   {
+    "type": "3",
+    "slider_name": "Yellow",
+    "wallpaper_name": "Yellow",
+    "cat_id": null,
+    "cat_name": null,
+    "slider_img_url": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/MiniWall/iminiwall_slider_images/miniwall.png",
+    "url": null,
+    "position": "2"
+  },
+   {
+      "type":"1",
+      "slider_name":"RATE US",
+      "cat_id":null,
+      "cat_name":null,
+      "slider_img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/MiniWall/iminiwall_slider_images/rate_iminiwall.png",
+      "url":"https://apple.co/3GXmtH3",
+      "position":"1"
+   }
+]

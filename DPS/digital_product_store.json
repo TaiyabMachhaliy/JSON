@@ -1,0 +1,138 @@
+{
+   "Categories":[
+      {
+         "cat_name":"Cat 01",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_01.png"
+      },
+      {
+         "cat_name":"Cat 02",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_02.png"
+      },
+      {
+         "cat_name":"Cat 03",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_03.png"
+      },
+      {
+         "cat_name":"Cat 04",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_04.png"
+      },
+      {
+         "cat_name":"Cat 05",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_05.png"
+      },
+      {
+         "cat_name":"Cat 06",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_06.png"
+      }
+   ],
+   "Products":[
+      {
+         "product_name":"Product 01",
+         "price":"$0.30",
+         "sku_id":"prod_01",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_01.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_01.psd",
+         "is_free":false,
+         "category":"Cat 01,Cat 04,Cat 06"
+      },
+       {
+         "product_name":"Product 02",
+         "price":"$0.16",
+         "sku_id":"prod_02",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_02.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_02.psd",
+         "is_free":false,
+         "category":"Cat 02,Cat 03,Cat 05"
+      },
+      {
+         "product_name":"Product 03",
+         "price":"$0.20",
+         "sku_id":"prod_03",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_03.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_03.psd",
+         "is_free":false,
+         "category":"Cat 03,Cat 05"
+      },
+      {
+         "product_name":"Product 04",
+         "price":"$0.17",
+         "sku_id":"prod_04",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_04.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_04.psd",
+         "is_free":false,
+         "category":"Cat 04,Cat 06"
+      },
+      {
+         "product_name":"Product 05",
+         "price":"$0.19",
+         "sku_id":"prod_05",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_05.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_05.psd",
+         "is_free":false,
+         "category":"Cat 01,Cat 02"
+      },
+      {
+         "product_name":"Product 06",
+         "price":"$0.19",
+         "sku_id":"prod_06",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_06.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_06.psd",
+         "is_free":false,
+         "category":"Cat 03,Cat 04"
+      },
+      {
+         "product_name":"Product 07",
+         "price":"$0.24",
+         "sku_id":"prod_07",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_07.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_07.psd",
+         "is_free":false,
+         "category":"Cat 05,Cat 06"
+      },
+      {
+         "product_name":"Product 08",
+         "price":"$0.13",
+         "sku_id":"prod_08",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_08.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_08.psd",
+         "is_free":false,
+         "category":"Cat 05,Cat 06"
+      },
+      {
+         "product_name":"Product 09",
+         "price":"$0.24",
+         "sku_id":"prod_09",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_09.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_09.psd",
+         "is_free":false,
+         "category":"Cat 01,Cat 05"
+      },
+      {
+         "product_name":"Product 10",
+         "price":"$0.27",
+         "sku_id":"prod_10",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_10.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_10.psd",
+         "is_free":false,
+         "category":"Cat 02,Cat 04"
+      },
+       {
+         "product_name":"Product 01 FREE",
+         "price":"$0.15",
+         "sku_id":"prod_01_free",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_01_FREE.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_01_FREE.psd",
+         "is_free":true,
+         "category":"Cat 01"
+      },
+      {
+         "product_name":"Product 02 FREE",
+         "price":"$0.27",
+         "sku_id":"prod_02_free",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_02_FREE.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_02_FREE.psd",
+         "is_free":true,
+         "category":"Cat 02"
+      }
+   ]
+}

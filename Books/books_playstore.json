@@ -1,0 +1,48 @@
+{
+  "Categories": [
+       {
+         "cat_name":"Cat 01",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_01.png"
+      },
+      {
+         "cat_name":"Cat 02",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_02.png"
+      },
+      {
+         "cat_name":"Cat 03",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_03.png"
+      },
+      {
+         "cat_name":"Cat 04",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_04.png"
+      },
+      {
+         "cat_name":"Cat 05",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_05.png"
+      },
+      {
+         "cat_name":"Cat 06",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_06.png"
+      }
+  ],
+  "Books": [
+    {
+      "author": "Author name",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_01.png",
+      "book_name": "Sample Book PDF 01",
+      "book_url": "https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_1.pdf",
+      "book_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "is_featured": False,
+      "category": "Cat 01"
+    },
+      {
+      "author": "Author name",
+      "book_thumb": "https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_02.png",
+      "book_name": "Sample Book PDF 02",
+      "book_url": "https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_2.pdf",
+      "book_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "is_featured": False,
+      "category": "Cat 02"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+[
+        {
+            "image": "https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
+            "web_url": "https://www.amazon.in/",
+	    "title": "Amazon",
+            "tab_name": "Deal of the Day,Womens,Travell & hotel,Reacharge,Eye wear,Gift & flowers"
+        },
+        {
+            "image": "https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
+            "web_url": "https://www.flipkart.com/",
+	    "title": "Flipkart",
+            "tab_name": "Deal of the Day,Womens,Travell & hotel,Reacharge,Eye wear,Gift & flowers,Home services"
+        },
+        {
+            "image": "https://play-lh.googleusercontent.com/3yi7Fo-OtJUZ7nAlB8WB0v1WTOdz76Z1kqvuuubhNlHzU9jhP97TnI-6eVThWZMV31A=s512-rw",
+            "web_url": "https://meesho.com/",
+	    "title": "Meesho",
+            "tab_name": "Deal of the Day,Womens,Travell & hotel,Reacharge,Baby & kids,Eye wear,Movies,Home services"
+        },
+        {
+            "image": "https://play-lh.googleusercontent.com/mus3LmDNKHikDOJHIoyaOuYO_K_TgasrHKKKWLQCvksn6vRN32rNN9PYhwptrFWwmnc",
+            "web_url": "https://www.target.com/",
+	    "title": "Target",
+            "tab_name": "Deal of the Day,Travell & hotel,Reacharge,Baby & kids,Eye wear,Home services"
+        },
+        {
+            "image": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY",
+            "web_url": "https://www.myntra.com/",
+	    "title": "Myntra",
+            "tab_name": "Deal of the Day,Reacharge,Baby & kids,Eye wear,Food,Movies,Grocery,Medicine"
+        },
+        {
+             "image": "https://play-lh.googleusercontent.com/-UPqVoSxCKPdC2wT4nuZXUW7Lo7p07Ee4kF5Ak1zTSCzMbQY0OjqJL4DUJdTLtbfv5s",
+            "web_url": "https://paytmmall.com/",
+	    "title": "Paytm Mall",
+            "tab_name": "Womens,Deal of the Day,Reacharge,Movies,Grocery,Medicine"
+        }
+       
+    ]

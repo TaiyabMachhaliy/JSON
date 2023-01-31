@@ -1,0 +1,128 @@
+{
+   "Categories":[
+      {
+         "cat_name":"Advanture",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Advanture.jpg"
+      },
+      {
+         "cat_name":"Biography",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Biography.png"
+      },
+      {
+         "cat_name":"Business",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Business.png"
+      },
+      {
+         "cat_name":"Economics",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Economics.png"
+      },
+      {
+         "cat_name":"Health",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Health.png"
+      },
+      {
+         "cat_name":"Historical",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Historical.png"
+      },
+      {
+         "cat_name":"Mathemetics",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Mathemetics.png"
+      },
+      {
+         "cat_name":"Philosophy",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/category_images/Philosophy.jpg"
+      }
+   ],
+   "Books":[
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_01.png",
+         "book_name":"Sample Book PDF 01",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_1.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy",
+         "is_featured":false,
+         "category":"Advanture"
+      },
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_02.png",
+         "book_name":"Sample Book PDF 02",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_2.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is",
+         "is_featured":true,
+         "category":"Advanture,Biography"
+      },
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_03.png",
+         "book_name":"Sample Book PDF 03",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_3.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+         "is_featured":false,
+         "category":"Advanture,Biography,Economics"
+      },
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_04.png",
+         "book_name":"Sample Book PDF 04",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_4.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text ",
+         "is_featured":true,
+         "category":"Biography,Biography,Economics"
+      },
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_05.png",
+         "book_name":"Sample Book PDF 05",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_5.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simple",
+         "is_featured":false,
+         "category":"Historical,Health,Biography"
+      },
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_06.png",
+         "book_name":"Sample Book PDF 06",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_6.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+         "is_featured":false,
+         "category":"Advanture,Historical,Health"
+      },
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_07.png",
+         "book_name":"Sample Book PDF 07",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_7.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text",
+         "is_featured":true,
+         "category":"Advanture,Biography,Health"
+      },
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_08.png",
+         "book_name":"Sample Book PDF 08",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_8.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text",
+         "is_featured":false,
+         "category":"Advanture,Biography,Health"
+      },
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_09.png",
+         "book_name":"Sample Book PDF 09",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_9.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply text",
+         "is_featured":false,
+         "category":"Advanture,Biography,Historical"
+      },
+      {
+         "author":"Author name",
+         "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_10.png",
+         "book_name":"Sample Book PDF 10",
+         "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_10.pdf",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy ",
+         "is_featured":true,
+         "category":"Advanture,Historical,Health"
+      }
+   ]
+}
