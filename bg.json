@@ -2,18 +2,8 @@
     "backgrounds": [
         {
             "id": 1,
-            "image_url": "https://i.imgur.com/GL7igry.png",
-            "image_url_fg": "https://i.imgur.com/GL7igry.png"
-        },
-        {
-            "id": 2,
-            "image_url": "https://i.imgur.com/AaevbdO.png",
-            "image_url_fg": "https://i.imgur.com/GL7igry.png"
-        },
-        {
-            "id": 3,
-            "image_url": "https://i.imgur.com/vWZNcHt.jpeg",
-            "image_url_fg": "https://i.imgur.com/uNh0ygB.jpeg"
+            "image_url": "https://i.imgur.com/oGVRYFL.png",
+            "image_url_fg": "https://i.imgur.com/xn6BgTb.png"
         }
     ]
 }
