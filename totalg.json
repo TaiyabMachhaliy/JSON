@@ -1,14 +1,17 @@
 [
     {
         "id": 1,
-        "url": "https://totalmahiti.totalgyans.com/"
+        "url": "https://totalmahiti.totalgyans.com/",
+        "floatav": false
     },
     {
         "id": 2,
-        "url": "https://totalmahiti.totalgyans.com/category/jobs/"
+        "url": "https://totalmahiti.totalgyans.com/category/jobs/",
+        "floatav": false
     },
     {
         "id": 3,
-        "url": "https://totalmahiti.totalgyans.com/category/admit-card/"
+        "url": "https://totalmahiti.totalgyans.com/category/admit-card/",
+        "floatav": false
     }
 ]
