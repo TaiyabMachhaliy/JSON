@@ -2,24 +2,24 @@
     "backgrounds": [
         {
             "id": 1,
-            "image_url": "https://i.imgur.com/oGVRYFL.png",
-            "thumb_url": "https://i.imgur.com/oGVRYFLh.png",
-            "ios_ver": "iOS 18",
-            "image_url_fg": "https://i.imgur.com/xn6BgTb.png"
+            "image_url": "https://i.imgur.com/kpOaN2k.png",
+            "thumb_url": "https://i.imgur.com/kpOaN2kh.png",
+            "ios_ver": "iPhone XS",
+            "image_url_fg": "https://i.imgur.com/OKkM9lF.png"
         },
         {
             "id": 2,
-            "image_url": "https://i.imgur.com/Se9wuK0.png",
-            "thumb_url": "https://i.imgur.com/Se9wuK0h.png",
-            "ios_ver": "iOS 18",
-            "image_url_fg": "https://i.imgur.com/6B5RS3G.png"
+            "image_url": "https://i.imgur.com/dtMfmWX.png",
+            "thumb_url": "https://i.imgur.com/dtMfmWXh.png",
+            "ios_ver": "iPhone XS",
+            "image_url_fg": "https://i.imgur.com/KIrxMbE.png"
         },
         {
             "id": 3,
-            "image_url": "https://i.imgur.com/CkOvTa1.png",
-            "thumb_url": "https://i.imgur.com/CkOvTa1h.png",
-            "ios_ver": "iOS 18",
-            "image_url_fg": "https://i.imgur.com/O14G8XM.png"
+            "image_url": "https://i.imgur.com/kpOaN2k.png",
+            "thumb_url": "https://i.imgur.com/kpOaN2kh.png",
+            "ios_ver": "iPhone XS",
+            "image_url_fg": "https://i.imgur.com/a411yns.png"
         }
     ]
 }
