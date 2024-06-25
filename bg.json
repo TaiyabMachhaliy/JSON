@@ -2,24 +2,80 @@
     "backgrounds": [
         {
             "id": 1,
-            "image_url": "https://i.imgur.com/kpOaN2k.png",
-            "thumb_url": "https://i.imgur.com/kpOaN2kh.png",
-            "ios_ver": "iPhone XS",
-            "image_url_fg": "https://i.imgur.com/OKkM9lF.png"
+            "image_url": "https://i.imgur.com/NQPKzk9.png",
+            "thumb_url": "https://i.imgur.com/NQPKzk9h.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/a44cB8z.png"
         },
         {
             "id": 2,
-            "image_url": "https://i.imgur.com/dtMfmWX.png",
-            "thumb_url": "https://i.imgur.com/dtMfmWXh.png",
-            "ios_ver": "iPhone XS",
-            "image_url_fg": "https://i.imgur.com/KIrxMbE.png"
+            "image_url": "https://i.imgur.com/XxvXaLi.jpg",
+            "thumb_url": "https://i.imgur.com/XxvXaLih.jpg",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/8h9HTq1.png"
         },
         {
             "id": 3,
-            "image_url": "https://i.imgur.com/kpOaN2k.png",
-            "thumb_url": "https://i.imgur.com/kpOaN2kh.png",
-            "ios_ver": "iPhone XS",
-            "image_url_fg": "https://i.imgur.com/a411yns.png"
+            "image_url": "https://i.imgur.com/oKjrToF.png",
+            "thumb_url": "https://i.imgur.com/oKjrToFh.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/k40cp97.png"
+        },
+        {
+            "id": 4,
+            "image_url": "https://i.imgur.com/Ufsl3nB.png",
+            "thumb_url": "https://i.imgur.com/Ufsl3nBh.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/GWYOp5j.png"
+        },
+         {
+            "id": 5,
+            "image_url": "https://i.imgur.com/2ePPIli.png",
+            "thumb_url": "https://i.imgur.com/2ePPIlih.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/DnDVwE0.png"
+        },
+        {
+            "id": 6,
+            "image_url": "https://i.imgur.com/2ePPIli.png",
+            "thumb_url": "https://i.imgur.com/2ePPIlih.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/DnDVwE0.png"
+        },
+        {
+            "id": 7,
+            "image_url": "https://i.imgur.com/yBvqX2E.png",
+            "thumb_url": "https://i.imgur.com/yBvqX2Eh.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/LT3gFVC.png"
+        },
+        {
+            "id": 8,
+            "image_url": "https://i.imgur.com/Nbogggv.png",
+            "thumb_url": "https://i.imgur.com/Nbogggvh.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/yp1QyVx.png"
+        },
+        {
+            "id": 9,
+            "image_url": "https://i.imgur.com/lB8aXXE.png",
+            "thumb_url": "https://i.imgur.com/lB8aXXEh.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/8mjBTSt.png"
+        },
+        {
+            "id": 10,
+            "image_url": "https://i.imgur.com/sGAjIEz.png",
+            "thumb_url": "https://i.imgur.com/sGAjIEzh.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/iHCyb65.png"
+        },
+        {
+            "id": 11,
+            "image_url": "https://i.imgur.com/S9MVWBn.png",
+            "thumb_url": "https://i.imgur.com/S9MVWBnh.png",
+            "ios_ver": "iOS 18",
+            "image_url_fg": "https://i.imgur.com/se4ItUh.png"
         }
     ]
 }
