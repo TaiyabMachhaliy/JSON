@@ -69,6 +69,27 @@
             "thumb_url": "https://i.imgur.com/S9MVWBnh.png",
             "ios_ver": "iOS 18",
             "image_url_fg": "https://i.imgur.com/se4ItUh.png"
+        },
+        {
+            "id": 11,
+            "image_url": "https://i.imgur.com/5f2dHzJ.png",
+            "thumb_url": "https://i.imgur.com/5f2dHzJh.png",
+            "ios_ver": "iPhone XS",
+            "image_url_fg": "https://i.imgur.com/eMvO2Di.png"
+        },
+         {
+            "id": 12,
+            "image_url": "https://i.imgur.com/8wE9nWF.png",
+            "thumb_url": "https://i.imgur.com/8wE9nWFh.png",
+            "ios_ver": "iPhone XS",
+            "image_url_fg": "https://i.imgur.com/yNkiR8X.png"
+        },
+        {
+            "id": 13,
+            "image_url": "https://i.imgur.com/S9jS8Js.png",
+            "thumb_url": "https://i.imgur.com/S9jS8Jsh.png",
+            "ios_ver": "iPhone XS",
+            "image_url_fg": "https://i.imgur.com/0YdO92h.png"
         }
     ]
 }
