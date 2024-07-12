@@ -132,6 +132,20 @@
             "thumb_url": "https://i.imgur.com/hkI5Lhuh.png",
             "ios_ver": "iOS 18",
             "image_url_fg": "https://i.imgur.com/OIpITDE.png"
+        },
+         {
+            "id": 20,
+            "image_url": "https://i.imgur.com/6EmlRbz.png",
+            "thumb_url": "https://i.imgur.com/6EmlRbzh.png",
+            "ios_ver": "iOS 17",
+            "image_url_fg": "https://i.imgur.com/x5K0O6G.png"
+        },
+        {
+            "id": 21,
+            "image_url": "https://i.imgur.com/gXpnjUE.png",
+            "thumb_url": "https://i.imgur.com/gXpnjUEh.png",
+            "ios_ver": "iOS 17",
+            "image_url_fg": "https://i.imgur.com/5X2nR9d.png"
         }
     ]
 }
