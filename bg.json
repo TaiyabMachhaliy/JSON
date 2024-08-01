@@ -105,47 +105,159 @@
             "ios_ver": "iOS 18",
             "image_url_fg": "https://i.imgur.com/GJvTTLx.png"
         },
-          {
-            "id": 16,
-            "image_url": "https://i.imgur.com/zQnFyae.png",
-            "thumb_url": "https://i.imgur.com/zQnFyaeh.png",
-            "ios_ver": "iOS 18",
-            "image_url_fg": "https://i.imgur.com/MgKj1Sc.png"
-        },
         {
-            "id": 17,
+            "id": 16,
             "image_url": "https://i.imgur.com/AXiumjH.png",
             "thumb_url": "https://i.imgur.com/AXiumjHh.png",
             "ios_ver": "iOS 18",
             "image_url_fg": "https://i.imgur.com/Ll3C7Ra.png"
         },
         {
-            "id": 18,
+            "id": 17,
             "image_url": "https://i.imgur.com/BypHalu.png",
             "thumb_url": "https://i.imgur.com/BypHaluh.png",
             "ios_ver": "iOS 18",
             "image_url_fg": "https://i.imgur.com/edEudYJ.png"
         },
         {
-            "id": 19,
+            "id": 18,
             "image_url": "https://i.imgur.com/hkI5Lhu.png",
             "thumb_url": "https://i.imgur.com/hkI5Lhuh.png",
             "ios_ver": "iOS 18",
             "image_url_fg": "https://i.imgur.com/OIpITDE.png"
         },
          {
-            "id": 20,
+            "id": 19,
             "image_url": "https://i.imgur.com/6EmlRbz.png",
             "thumb_url": "https://i.imgur.com/6EmlRbzh.png",
             "ios_ver": "iOS 17",
             "image_url_fg": "https://i.imgur.com/x5K0O6G.png"
         },
         {
-            "id": 21,
+            "id": 20,
             "image_url": "https://i.imgur.com/gXpnjUE.png",
             "thumb_url": "https://i.imgur.com/gXpnjUEh.png",
             "ios_ver": "iOS 17",
             "image_url_fg": "https://i.imgur.com/5X2nR9d.png"
-        }
+        },
+         {
+            "id": 21,
+            "image_url": "https://i.imgur.com/mvpC7Ow.png",
+            "thumb_url": "https://i.imgur.com/mvpC7Owh.png",
+            "ios_ver": "Iphone 14",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 22,
+            "image_url": "https://i.imgur.com/qROKBRm.png",
+            "thumb_url": "https://i.imgur.com/qROKBRmh.png",
+            "ios_ver": "Iphone 14",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+         {
+            "id": 23,
+            "image_url": "https://i.imgur.com/B4qYtJQ.png",
+            "thumb_url": "hhttps://i.imgur.com/B4qYtJQh.png",
+            "ios_ver": "Iphone 14",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 24,
+            "image_url": "https://i.imgur.com/1qifrZ6.png",
+            "thumb_url": "https://i.imgur.com/1qifrZ6h.png",
+            "ios_ver": "Iphone 14",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 25,
+            "image_url": "https://i.imgur.com/aw6lTDY.png",
+            "thumb_url": "https://i.imgur.com/aw6lTDYh.png",
+            "ios_ver": "Iphone 14",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 26,
+            "image_url": "https://i.imgur.com/gTmza4V.png",
+            "thumb_url": "https://i.imgur.com/gTmza4Vh.png",
+            "ios_ver": "Iphone 14",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 27,
+            "image_url": "https://i.imgur.com/wOmrmFm.png",
+            "thumb_url": "https://i.imgur.com/wOmrmFmh.png",
+            "ios_ver": "Iphone 14",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 28,
+            "image_url": "https://i.imgur.com/deWctYH.png",
+            "thumb_url": "https://i.imgur.com/deWctYHh.png",
+            "ios_ver": "Iphone 14",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 29,
+            "image_url": "https://i.imgur.com/XkCQE3S.png",
+            "thumb_url": "https://i.imgur.com/XkCQE3Sh.png",
+            "ios_ver": "Iphone 14",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+         {
+            "id": 30,
+            "image_url": "https://i.imgur.com/moBwTmn.png",
+            "thumb_url": "https://i.imgur.com/moBwTmnh.png",
+            "ios_ver": "iPhone 13 Pro",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 31,
+            "image_url": "https://i.imgur.com/ZxHGGZm.png",
+            "thumb_url": "https://i.imgur.com/ZxHGGZmh.png",
+            "ios_ver": "iPhone 13 Pro",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 32,
+            "image_url": "https://i.imgur.com/P2OlMfx.png",
+            "thumb_url": "https://i.imgur.com/P2OlMfxh.png",
+            "ios_ver": "iPhone 13 Pro",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 33,
+            "image_url": "https://i.imgur.com/GCyn9aj.png",
+            "thumb_url": "https://i.imgur.com/GCyn9ajh.png",
+            "ios_ver": "iPhone 13 Pro",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 34,
+            "image_url": "https://i.imgur.com/ECwLgXP.png",
+            "thumb_url": "https://i.imgur.com/ECwLgXPh.png",
+            "ios_ver": "iPhone 13 Pro",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 35,
+            "image_url": "https://i.imgur.com/uzpO5X5.png",
+            "thumb_url": "https://i.imgur.com/uzpO5X5h.png",
+            "ios_ver": "iPhone 13 Pro",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 36,
+            "image_url": "https://i.imgur.com/wvYwH2b.png",
+            "thumb_url": "https://i.imgur.com/wvYwH2bh.png",
+            "ios_ver": "iPhone 13 Pro",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        },
+        {
+            "id": 37,
+            "image_url": "https://i.imgur.com/BoaiMlo.png",
+            "thumb_url": "https://i.imgur.com/BoaiMloh.png",
+            "ios_ver": "iPhone 13 Pro",
+            "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
+        } 
     ]
 }
