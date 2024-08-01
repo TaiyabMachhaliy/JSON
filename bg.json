@@ -258,6 +258,34 @@
             "thumb_url": "https://i.imgur.com/BoaiMloh.png",
             "ios_ver": "iPhone 13 Pro",
             "image_url_fg": "https://i.imgur.com/YoU7BHG.png"
-        } 
+        },
+        {
+            "id": 38,
+            "image_url": "https://i.imgur.com/3OKquex.png",
+            "thumb_url": "https://i.imgur.com/3OKquexh.png",
+            "ios_ver": "iPhone 13",
+            "image_url_fg": "https://i.imgur.com/99zlrXF.png"
+        },
+        {
+            "id": 39,
+            "image_url": "https://i.imgur.com/17bozOJ.png",
+            "thumb_url": "https://i.imgur.com/17bozOJh.png",
+            "ios_ver": "iPhone 13",
+            "image_url_fg": "https://i.imgur.com/acjWtgb.png"
+        },
+        {
+            "id": 40,
+            "image_url": "https://i.imgur.com/AFH2bAl.png",
+            "thumb_url": "https://i.imgur.com/AFH2bAlh.png",
+            "ios_ver": "iPhone 13",
+            "image_url_fg": "https://i.imgur.com/ROUZ0Ur.png"
+        },
+         {
+            "id": 41,
+            "image_url": "https://i.imgur.com/7hBafqm.png",
+            "thumb_url": "https://i.imgur.com/7hBafqmh.png",
+            "ios_ver": "iPhone 13",
+            "image_url_fg": "https://i.imgur.com/pMg9OCo.png"
+        }
     ]
 }
