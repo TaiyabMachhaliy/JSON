@@ -2,8 +2,9 @@ name: Update Weather Data
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour (for 30 minutes, change cron to '*/30 * * * *')
+    - cron: '*/1 * * * *'  # Every minute (since GitHub doesn't support intervals shorter than 1 minute)
   workflow_dispatch:  # To manually trigger the action
+
 
 jobs:
   update:
