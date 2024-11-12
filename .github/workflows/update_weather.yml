@@ -25,4 +25,5 @@ jobs:
         git config --global user.email "dev.taiyab@gmail.com"
         git add weather_data.json
         git commit -m "Updated weather data"
-        git push https://x-access-token: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@github.com/TaiyabMachhaliy/JSON.git
+        git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/TaiyabMachhaliy/JSON.git
+
