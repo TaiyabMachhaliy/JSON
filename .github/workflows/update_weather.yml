@@ -19,11 +19,10 @@ jobs:
 
     - name: Commit and push changes
       env:
-        GH_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the token from GitHub Secrets
+        GH_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the new PAT token
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "dev.taiyab@gmail.com"
         git add weather_data.json
         git commit -m "Updated weather data"
         git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/TaiyabMachhaliy/JSON.git
-
