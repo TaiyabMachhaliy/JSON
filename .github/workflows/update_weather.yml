@@ -19,7 +19,7 @@ jobs:
 
     - name: Commit and push changes
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the token from GitHub Secrets
+        GH_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the token from GitHub Secrets
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "dev.taiyab@gmail.com"
