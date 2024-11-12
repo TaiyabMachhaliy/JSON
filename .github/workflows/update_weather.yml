@@ -2,9 +2,8 @@ name: Update Weather Data
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Every minute (since GitHub doesn't support intervals shorter than 1 minute)
+    - cron: '*/1 * * * *'  # Every minute (GitHub does not support intervals shorter than 1 minute)
   workflow_dispatch:  # To manually trigger the action
-
 
 jobs:
   update:
@@ -18,10 +17,12 @@ jobs:
       run: |
         curl -s "https://api.weatherapi.com/v1/current.json?key=106588a0a19a4cbe91c62044241111&q=Palanpur&aqi=no" -o weather_data.json
 
-    - name: Update JSON file in repository
-      uses: EndBug/add-and-commit@v7
-      with:
-        author_name: "GitHub Actions"
-        author_email: "dev.taiyab@gmail.com"
-        message: "Updated weather data"
-        add: "weather_data.json"
+    - name: Commit and push changes
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the token from GitHub Secrets
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "dev.taiyab@gmail.com"
+        git add weather_data.json
+        git commit -m "Updated weather data"
+        git push https://x-access-token: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@github.com/TaiyabMachhaliy/JSON.git
