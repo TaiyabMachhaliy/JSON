@@ -2,7 +2,7 @@ name: Update Weather Data
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Every 30 minutes
+    - cron: '0 0 */7 * *'  # Every 7 days at midnight
   workflow_dispatch:  # To manually trigger the action
 
 jobs:
