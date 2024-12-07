@@ -250,29 +250,5 @@
         "leftside_design": "Irshad",
         "rightside_design": "Changvadiya",
         "symbol": "salimbhai"
-    },
-    {
-        "id": "75",
-        "leftside_design": "ha",
-        "rightside_design": "sa",
-        "symbol": "ha"
-    },
-    {
-        "id": "76",
-        "leftside_design": "ha",
-        "rightside_design": "ha",
-        "symbol": "ha"
-    },
-    {
-        "id": "78",
-        "leftside_design": "left",
-        "rightside_design": "right",
-        "symbol": "symbol"
-    },
-    {
-        "id": "79",
-        "leftside_design": "df",
-        "rightside_design": "dfdf",
-        "symbol": "fdfdf"
     }
 ]
