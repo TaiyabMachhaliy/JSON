@@ -280,35 +280,5 @@
         "leftside_design": "df",
         "rightside_design": "dfdf",
         "symbol": "fdfdf"
-    },
-    {
-        "id": "80",
-        "leftside_design": "tikdi",
-        "rightside_design": "tikdi",
-        "symbol": "tikdi"
-    },
-    {
-        "id": "81",
-        "leftside_design": "fg",
-        "rightside_design": "fgfg",
-        "symbol": "fgfg"
-    },
-    {
-        "id": "82",
-        "leftside_design": "dfd",
-        "rightside_design": "fdf",
-        "symbol": "dfd"
-    },
-    {
-        "id": "83",
-        "leftside_design": "dfd",
-        "rightside_design": "fdf",
-        "symbol": "dfd"
-    },
-    {
-        "id": "84",
-        "leftside_design": "df",
-        "rightside_design": "dfd",
-        "symbol": "fdf"
     }
 ]
