@@ -132,24 +132,6 @@
         "symbol": "\u03c6(*\uffe30\uffe3)"
     },
     {
-        "id": "45",
-        "leftside_design": "\ud83c\udf38\ud83d\udc95",
-        "rightside_design": "\ud83d\udc95\ud83c\udf38",
-        "symbol": "\ud83e\udee7"
-    },
-    {
-        "id": "46",
-        "leftside_design": "~\ud83c\udf80\u2661",
-        "rightside_design": "\ud83c\udf80~",
-        "symbol": "\u262f"
-    },
-    {
-        "id": "53",
-        "leftside_design": "sd",
-        "rightside_design": "sd",
-        "symbol": "sd"
-    },
-    {
         "id": "54",
         "leftside_design": "sdsds",
         "rightside_design": "dsds",
