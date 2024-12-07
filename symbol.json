@@ -124,11 +124,5 @@
         "leftside_design": "\ua670\ud80c\udc1a\u1b44",
         "rightside_design": "\u2591\u25a9",
         "symbol": "\u00a9\u00ae7 !!"
-    },
-    {
-        "id": "90",
-        "leftside_design": "delete",
-        "rightside_design": "delete",
-        "symbol": "delete"
     }
 ]
