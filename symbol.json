@@ -84,18 +84,6 @@
         "symbol": "\ud83d\ude09\ud83d\udc4c"
     },
     {
-        "id": "39",
-        "leftside_design": "\u4e97\uff2d\uff52\u300e",
-        "rightside_design": "\u300f\uff2f\uff30\u4e97",
-        "symbol": "\u2620"
-    },
-    {
-        "id": "40",
-        "leftside_design": "\u0f12\u262c",
-        "rightside_design": "\u262c\u0f12",
-        "symbol": "\u2620"
-    },
-    {
         "id": "41",
         "leftside_design": "\u273f\u4e42 ",
         "rightside_design": " \u4e42\u273f",
