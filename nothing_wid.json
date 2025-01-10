@@ -1,0 +1,14 @@
+{
+  "wallpapers": [
+    {
+      "name": "Wallpaper 1",
+      "thumbnailUrl": "https://wallpapercg.com/media/ts_v/15058.webp",
+      "imageUrl": "https://wallpapercg.com/media/ts_v/15058.webp"
+    },
+    {
+      "name": "Wallpaper 2",
+      "thumbnailUrl": "https://wallpapercg.com/media/ts_v/15055.webp",
+      "imageUrl": "https://wallpapercg.com/media/ts_v/15055.webp"
+    }
+  ]
+}
