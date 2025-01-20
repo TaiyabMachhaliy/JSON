@@ -204,12 +204,6 @@
         "symbol": "\u00b0\u00b0"
     },
     {
-        "id": "111",
-        "leftside_design": "\u2661\ud83e\udd5b\ud83c\udf6a\u00b0 ",
-        "rightside_design": "\u00b0\ud83c\udf6a\ud83e\udd5b\u2661",
-        "symbol": "\u2601\u2601"
-    },
-    {
         "id": "112",
         "leftside_design": "\u2764\ufe0f",
         "rightside_design": "\ud83d\udda4\ud83d\udcab",
@@ -220,12 +214,6 @@
         "leftside_design": "\u2602",
         "rightside_design": "\u2602",
         "symbol": "\u266a\u266a"
-    },
-    {
-        "id": "114",
-        "leftside_design": "\ud83d\udda5\ufe0f",
-        "rightside_design": "\ud83d\udda5\ufe0f",
-        "symbol": "\ud83c\udfb8\ud83c\udfb8"
     },
     {
         "id": "115",
