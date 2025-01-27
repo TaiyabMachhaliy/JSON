@@ -40,5 +40,12 @@
         "category": "example",
         "description": "example",
         "post_date": "2025-01-27 18:28:45"
+    },
+    {
+        "gif_url": "https://i.imgur.com/KlA5Yx7.jpeg",
+        "gif_name": "windows",
+        "category": "windows",
+        "description": "windows",
+        "post_date": "2025-01-27 18:29:14"
     }
 ]
