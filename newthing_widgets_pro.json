@@ -2,22 +2,26 @@
   "title": "What's New",
   "items": [
     {
-      "version": "2.0.0",
-      "date": "March 15, 2024",
+      "version": "1.1",
+      "date": "Live Now",
       "changes": [
-        "Added new widget styles",
-        "Improved battery optimization",
-        "Fixed screen monitoring issues",
-        "Added new customization options"
+        "Fixed 4x4 & 5x5 corner cut issue",
+        "Resolved Battery Drain Issue",
+        "80% widget responsiveness",
+        "Resolved license issue",
+        "Bug fixes & performance improvements"
       ]
     },
     {
-      "version": "1.9.0",
-      "date": "March 1, 2024",
+      "version": "1.2",
+      "date": "UpComing",
       "changes": [
-        "Enhanced widget performance",
-        "Added dark mode support",
-        "Bug fixes and improvements"
+        "12/24-hour clock support",
+        "Improved Music & Note Widget responsiveness",
+        "8 New Widgets for more customization",
+        "Photo issue fix on certain devices",
+        "Border removal option in Photo Widget",
+        "New theme-matching wallpapers"
       ]
     }
   ]
