@@ -2,26 +2,27 @@
   "title": "What's New",
   "items": [
     {
-      "version": "1.1",
+      "version": "1.2",
       "date": "Live Now",
+      "changes": [
+        "12/24-hour clock support",
+        "Fahrenheit & Celsius options",
+        "Improved Music & Notes widgets",
+        "13 new widgets added",
+        "Fixed photo issues on some devices",
+        "Bug fixes & performance boosts",
+        "30+ new theme-based wallpapers"
+      ]
+    },
+    {
+      "version": "1.1",
+      "date": "",
       "changes": [
         "Fixed 4x4 & 5x5 corner cut issue",
         "Resolved Battery Drain Issue",
         "80% widget responsiveness",
         "Resolved license issue",
         "Bug fixes & performance improvements"
-      ]
-    },
-    {
-      "version": "1.2",
-      "date": "UpComing Update",
-      "changes": [
-        "12/24-hour clock support",
-        "Improved Music & Note Widget responsiveness",
-        "8 New Widgets for more customization",
-        "Photo issue fix on certain devices",
-        "Border removal option in Photo Widget",
-        "New theme-matching wallpapers"
       ]
     }
   ]
