@@ -1,662 +1,668 @@
 [
     {
         "id": "19",
-        "leftside_design": "\u00d7\u035c\u00d7",
-        "rightside_design": "\u00d7\u035c\u00d7",
-        "symbol": "\ud83d\udd2f"
+        "leftside_design": "×͜×",
+        "rightside_design": "×͜×",
+        "symbol": "🔯"
     },
     {
         "id": "23",
-        "leftside_design": "\u25e4",
-        "rightside_design": " \u25e2",
-        "symbol": "\u265b"
+        "leftside_design": "◤",
+        "rightside_design": " ◢",
+        "symbol": "♛"
     },
     {
         "id": "24",
-        "leftside_design": "\u4e48 \u4e97",
-        "rightside_design": " \u4e48",
-        "symbol": "\ud83d\udc51\ud83d\udc9b"
+        "leftside_design": "么 亗",
+        "rightside_design": " 么",
+        "symbol": "👑💛"
     },
     {
         "id": "25",
-        "leftside_design": "\u2580\u2584\u2580\u2584\u2580\u2584 ",
-        "rightside_design": "\u2584\u2580\u2584\u2580\u2584\u2580",
-        "symbol": "\u0fd0\u2122"
+        "leftside_design": "▀▄▀▄▀▄ ",
+        "rightside_design": "▄▀▄▀▄▀",
+        "symbol": "࿐™"
     },
     {
         "id": "26",
-        "leftside_design": "\u0f04\u2764\ufe0f",
-        "rightside_design": "\uaadd\u2147\u049f\u0fd0\u2764\ufe0f",
-        "symbol": "\ud83c\udf20"
+        "leftside_design": "༄❤️",
+        "rightside_design": "ꫝⅇҟ࿐❤️",
+        "symbol": "🌠"
     },
     {
         "id": "27",
-        "leftside_design": "\ua9c1\u06dd\u225b\u0f12\u0390 ",
-        "rightside_design": "\u0f12\u225b\u06dd\ua9c2",
-        "symbol": "(\u2741\u00b4\u25e1`\u2741)"
+        "leftside_design": "꧁۝≛༒ΐ ",
+        "rightside_design": "༒≛۝꧂",
+        "symbol": "(❁´◡`❁)"
     },
     {
         "id": "28",
-        "leftside_design": "\u2591\u2592\u2593\u2588\u2593\u2592\u2591 ",
-        "rightside_design": "\u2591\u2592\u2593\u2588\u2593\u2592\u2591 ",
-        "symbol": "\u2776\u2779\u2778"
+        "leftside_design": "░▒▓█▓▒░ ",
+        "rightside_design": "░▒▓█▓▒░ ",
+        "symbol": "❶❹❸"
     },
     {
         "id": "29",
-        "leftside_design": "\u00b0\u00b0|\ufe3b\u2566\u0335\u0335\u0347",
-        "rightside_design": "\ufe3b\u2566\u0335\u0335\u0347\u033f\u033f\u033f\u033f\u2564\u2500\u2022\u2022",
-        "symbol": "\u2591"
+        "leftside_design": "°°|︻╦̵̵͇",
+        "rightside_design": "︻╦̵̵͇̿̿̿̿╤─••",
+        "symbol": "░"
     },
     {
         "id": "30",
-        "leftside_design": "\u2582\u2583\u2584\u2585\u2586\u2587\u2588\u2593\u2592\u2591",
-        "rightside_design": "\u2591\u2592\u2593\u2588\u2587\u2586\u2585\u2584\u2583\u2582\r",
-        "symbol": "\u2776\u2779\u2778"
+        "leftside_design": "▂▃▄▅▆▇█▓▒░",
+        "rightside_design": "░▒▓█▇▆▅▄▃▂\r",
+        "symbol": "❶❹❸"
     },
     {
         "id": "31",
-        "leftside_design": "\u25e5\u1cc4",
-        "rightside_design": "\u1cc4\u25e4",
-        "symbol": "\u2776 \u2777 \u2778 \u2779 \u277a \u277b \u277c \u277d \u277e"
+        "leftside_design": "◥᳄",
+        "rightside_design": "᳄◤",
+        "symbol": "❶ ❷ ❸ ❹ ❺ ❻ ❼ ❽ ❾"
     },
     {
         "id": "33",
-        "leftside_design": "\u2584\ufe3b\u253b\u2550\u2533\u4e00",
-        "rightside_design": "\u2584\ufe3b\u253b\u2550\u2533\u4e00",
-        "symbol": "\u24cb"
+        "leftside_design": "▄︻┻═┳一",
+        "rightside_design": "▄︻┻═┳一",
+        "symbol": "Ⓥ"
     },
     {
         "id": "34",
-        "leftside_design": "\ua9c1\u0f12",
-        "rightside_design": "\u0f12\ua9c2",
-        "symbol": "\u262c"
+        "leftside_design": "꧁༒",
+        "rightside_design": "༒꧂",
+        "symbol": "☬"
     },
     {
         "id": "35",
-        "leftside_design": "\u2601\u2728",
-        "rightside_design": "\u2728\u2601",
-        "symbol": "\ud83d\udc32"
+        "leftside_design": "☁✨",
+        "rightside_design": "✨☁",
+        "symbol": "🐲"
     },
     {
         "id": "36",
-        "leftside_design": "\u2605\u5f61 \ua9c1\ud80c\ude88\ud808\udd9c",
-        "rightside_design": "\ud808\udd9c\ud80c\ude89\ua9c2 \u5f61\u2605",
-        "symbol": "\ud83d\ude09\ud83d\udc4c"
+        "leftside_design": "★彡 ꧁𓊈𒆜",
+        "rightside_design": "𒆜𓊉꧂ 彡★",
+        "symbol": "😉👌"
     },
     {
         "id": "41",
-        "leftside_design": "\u273f\u4e42 ",
-        "rightside_design": " \u4e42\u273f",
-        "symbol": "\ud83d\udc7f"
+        "leftside_design": "✿乂 ",
+        "rightside_design": " 乂✿",
+        "symbol": "👿"
     },
     {
         "id": "42",
-        "leftside_design": "\ua9c1\u2abb\u2665",
-        "rightside_design": "\u2665\u2abc\ua9c2",
-        "symbol": "\ud83d\udcde"
+        "leftside_design": "꧁⪻♥",
+        "rightside_design": "♥⪼꧂",
+        "symbol": "📞"
     },
     {
         "id": "43",
-        "leftside_design": "\ua670\ud80c\udc1a\u1b44",
-        "rightside_design": "\u2591\u25a9",
-        "symbol": "\u00a9\u00ae7 !!"
+        "leftside_design": "꙰𓀚᭄",
+        "rightside_design": "░▩",
+        "symbol": "©®7 !!"
     },
     {
         "id": "91",
-        "leftside_design": "\u0f04\u1da6\u1db0\u1d48\u1b44\u2605",
-        "rightside_design": "\u2074\u00b3\u0fd0",
-        "symbol": "\u2614"
+        "leftside_design": "༄ᶦᶰᵈ᭄★",
+        "rightside_design": "⁴³࿐",
+        "symbol": "☔"
     },
     {
         "id": "92",
-        "leftside_design": "\u4e42 ",
-        "rightside_design": "\u4e42",
-        "symbol": "\u2764\ufe0f\u2765\u2765"
+        "leftside_design": "乂 ",
+        "rightside_design": "乂",
+        "symbol": "❤️❥❥"
     },
     {
         "id": "93",
-        "leftside_design": "\u2501\u2501\u256c\u0668\u0640\ufba9\ufba9",
-        "rightside_design": "\u0640\u2501\u2501\u256c\ufba9\ufba9\u0668",
-        "symbol": "\ud83c\udf02"
+        "leftside_design": "━━╬٨ـﮩﮩ",
+        "rightside_design": "ـ━━╬ﮩﮩ٨",
+        "symbol": "🌂"
     },
     {
         "id": "94",
-        "leftside_design": "\u4e97\u2500\u2500\u2500\u2500 \u25cf\u25b6",
-        "rightside_design": "\u25b6\u25cf\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u4e97",
-        "symbol": "\u2570 \u1d40\u1d58 \u256f"
+        "leftside_design": "亗──── ●▶",
+        "rightside_design": "▶●────────亗",
+        "symbol": "╰ ᵀᵘ ╯"
     },
     {
         "id": "95",
-        "leftside_design": "\ud83e\udd8b\ud83e\udd40",
-        "rightside_design": "\ud83e\udd40\ud83e\udd8b",
-        "symbol": "\u30c4"
+        "leftside_design": "🦋🥀",
+        "rightside_design": "🥀🦋",
+        "symbol": "ツ"
     },
     {
         "id": "96",
-        "leftside_design": "\u1d35\u1d2c\u1d39  \u27b3",
-        "rightside_design": "\u27b3",
-        "symbol": "( \u0361\u275b\u202f\u035c\u0296 \u0361\u275b)"
+        "leftside_design": "ᴵᴬᴹ  ➳",
+        "rightside_design": "➳",
+        "symbol": "( ͡❛ ͜ʖ ͡❛)"
     },
     {
         "id": "97",
-        "leftside_design": "\u2584\ufe3b\u0337\u033f\u253b\u033f\u2550\u2501\u4e00",
-        "rightside_design": "\u1dab\u1d52\u1d5b\u1d49\u1d67\u2092\u1d64\u2728",
-        "symbol": "\ud83d\udcb2\ud83d\udcb2"
+        "leftside_design": "▄︻̷̿┻̿═━一",
+        "rightside_design": "ᶫᵒᵛᵉᵧₒᵤ✨",
+        "symbol": "💲💲"
     },
     {
         "id": "98",
-        "leftside_design": "\u4e00\u2501\u2550\ufe3b\u0337\u033f\u253b\u033f\u2584",
-        "rightside_design": "\u1d2e2\u1b44",
+        "leftside_design": "一━═︻̷̿┻̿▄",
+        "rightside_design": "ᴮ2᭄",
         "symbol": "$$$"
     },
     {
         "id": "99",
-        "leftside_design": "\ufba9\u0668\u0640\ufba9\ufba9\u0668\u0640",
-        "rightside_design": "\ufba9\u0668\u0640\ufba9\ufba9\u0668\u0640",
-        "symbol": "\ud83d\udcb8\ud83d\udcb8"
+        "leftside_design": "ﮩ٨ـﮩﮩ٨ـ",
+        "rightside_design": "ﮩ٨ـﮩﮩ٨ـ",
+        "symbol": "💸💸"
     },
     {
         "id": "100",
         "leftside_design": "\/|\\___",
         "rightside_design": "___\/|\\",
-        "symbol": "( \u0361\ud83d\udc41\ufe0f\u202f\u035c\u0296 \u0361\ud83d\udc41\ufe0f)"
+        "symbol": "( ͡👁️ ͜ʖ ͡👁️)"
     },
     {
         "id": "103",
-        "leftside_design": "\u265b\u2508\u26e7\u2508\u2508\u2022\u0f36",
-        "rightside_design": "\u265b\u2508\u26e7\u2508\u2508\u2022\u0f36",
-        "symbol": "\u2603\u2603"
+        "leftside_design": "♛┈⛧┈┈•༶",
+        "rightside_design": "♛┈⛧┈┈•༶",
+        "symbol": "☃☃"
     },
     {
         "id": "104",
-        "leftside_design": "\u0f04\u1d58\u02e2\u1d43\u1b44\u273f",
-        "rightside_design": "\u2008\u2713",
-        "symbol": "\ud83c\udf7e\ud83c\udf7e"
+        "leftside_design": "༄ᵘˢᵃ᭄✿",
+        "rightside_design": " ✓",
+        "symbol": "🍾🍾"
     },
     {
         "id": "105",
-        "leftside_design": "\u5de0",
-        "rightside_design": "\u5de0\u2008",
-        "symbol": "\u26a1\u26a1"
+        "leftside_design": "巠",
+        "rightside_design": "巠 ",
+        "symbol": "⚡⚡"
     },
     {
         "id": "106",
-        "leftside_design": "\ua9c1\u0f3a",
-        "rightside_design": "\u0f3b\ua9c2",
-        "symbol": "\u2622\u2622"
+        "leftside_design": "꧁༺",
+        "rightside_design": "༻꧂",
+        "symbol": "☢☢"
     },
     {
         "id": "108",
-        "leftside_design": "\u25e5\ua9c1",
-        "rightside_design": "\ua9c2\u25e4",
-        "symbol": "\u0e3f\u0e3f"
+        "leftside_design": "◥꧁",
+        "rightside_design": "꧂◤",
+        "symbol": "฿฿"
     },
     {
         "id": "109",
-        "leftside_design": "\u0f04\u0157",
-        "rightside_design": "\u0157\u0fd0",
-        "symbol": "\u26cf\u26cf"
+        "leftside_design": "༄ŗ",
+        "rightside_design": "ŗ࿐",
+        "symbol": "⛏⛏"
     },
     {
         "id": "110",
-        "leftside_design": "\u273f",
-        "rightside_design": "\u273f",
-        "symbol": "\u00b0\u00b0"
+        "leftside_design": "✿",
+        "rightside_design": "✿",
+        "symbol": "°°"
     },
     {
         "id": "112",
-        "leftside_design": "\u2764\ufe0f",
-        "rightside_design": "\ud83d\udda4\ud83d\udcab",
-        "symbol": "\u266b\u266b"
+        "leftside_design": "❤️",
+        "rightside_design": "🖤💫",
+        "symbol": "♫♫"
     },
     {
         "id": "113",
-        "leftside_design": "\u2602",
-        "rightside_design": "\u2602",
-        "symbol": "\u266a\u266a"
+        "leftside_design": "☂",
+        "rightside_design": "☂",
+        "symbol": "♪♪"
     },
     {
         "id": "115",
-        "leftside_design": "\u2e19\u1e9e\u0e4f\u028f\u0fd0",
-        "rightside_design": "\u4e97",
-        "symbol": "\ud83c\udfa7\ud83c\udfa7"
+        "leftside_design": "⸙ẞ๏ʏ࿐",
+        "rightside_design": "亗",
+        "symbol": "🎧🎧"
     },
     {
         "id": "116",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83c\udf84\ud83c\udf84"
+        "symbol": "🎄🎄"
     },
     {
         "id": "117",
-        "leftside_design": "\u0f3a",
-        "rightside_design": "\u0f3b\u1d33\u1d52\u1d48",
-        "symbol": "\ud83d\udca3\ud83d\udca3"
+        "leftside_design": "༺",
+        "rightside_design": "༻ᴳᵒᵈ",
+        "symbol": "💣💣"
     },
     {
         "id": "118",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u26bd\u26bd"
+        "symbol": "⚽⚽"
     },
     {
         "id": "119",
-        "leftside_design": "\ufe0e\ua9c1\u2606\u2764\ufe0f\u2740",
-        "rightside_design": "\u2740\u2764\ufe0f\u2606\ua9c2\ud83d\udc40",
-        "symbol": "\ud83c\udfc0\ud83c\udfc0"
+        "leftside_design": "︎꧁☆❤️❀",
+        "rightside_design": "❀❤️☆꧂👀",
+        "symbol": "🏀🏀"
     },
     {
         "id": "120",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u2600\u2600"
+        "symbol": "☀☀"
     },
     {
         "id": "121",
-        "leftside_design": "\u2663\ufe0f\ud83d\udc9b",
-        "rightside_design": "\u2764\ufe0f\u2660\ufe0f",
-        "symbol": "\u2615\u2615"
+        "leftside_design": "♣️💛",
+        "rightside_design": "❤️♠️",
+        "symbol": "☕☕"
     },
     {
         "id": "122",
-        "leftside_design": "\u4e97\u300e",
-        "rightside_design": "\u300f\u4e97",
-        "symbol": "\ud83c\udf93\ud83c\udf93"
+        "leftside_design": "亗『",
+        "rightside_design": "』亗",
+        "symbol": "🎓🎓"
     },
     {
         "id": "123",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83c\udfae\ud83c\udfae"
+        "symbol": "🎮🎮"
     },
     {
         "id": "124",
-        "leftside_design": "\ud80c\udda9\ud83d\udc9c\ud80c\uddaa",
-        "rightside_design": "\ud80c\udda9\ud83d\udc9c\ud80c\uddaa",
-        "symbol": "\ud83d\udcb0\ud83d\udcb0"
+        "leftside_design": "𓆩💜𓆪",
+        "rightside_design": "𓆩💜𓆪",
+        "symbol": "💰💰"
     },
     {
         "id": "125",
-        "leftside_design": "]\u2a93",
-        "rightside_design": "\u2a94[",
-        "symbol": "\ud83d\udcf1\ud83d\udcf1"
+        "leftside_design": "]⪓",
+        "rightside_design": "⪔[",
+        "symbol": "📱📱"
     },
     {
         "id": "126",
-        "leftside_design": "\ud83d\udc95\u262c\u26a1",
-        "rightside_design": "\u26a1\u262c\ud83d\udc95",
-        "symbol": "\ud83c\udf03\ud83c\udf03"
+        "leftside_design": "💕☬⚡",
+        "rightside_design": "⚡☬💕",
+        "symbol": "🌃🌃"
     },
     {
         "id": "127",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\udc98\ud83d\udc98"
+        "symbol": "💘💘"
     },
     {
         "id": "128",
-        "leftside_design": "\u2501\u2501\u256c\u0668\u0640\ufba9\ufba9",
-        "rightside_design": "\u0668\u256c\u2501\u2764\ufe0f\u2765\u2765\u2550\u2550\u2550",
-        "symbol": "\ud83c\udff9\ud83c\udff9"
+        "leftside_design": "━━╬٨ـﮩﮩ",
+        "rightside_design": "٨╬━❤️❥❥═══",
+        "symbol": "🏹🏹"
     },
     {
         "id": "129",
-        "leftside_design": "\u6e90 \u2af6",
-        "rightside_design": "\u2af6 \u6e90",
-        "symbol": "\ud83d\udd76\ufe0f\ud83d\udd76\ufe0f"
+        "leftside_design": "源 ⫶",
+        "rightside_design": "⫶ 源",
+        "symbol": "🕶️🕶️"
     },
     {
         "id": "130",
-        "leftside_design": " \u264a\u2602",
-        "rightside_design": " \u2602\u264a",
-        "symbol": "\ubaa8"
+        "leftside_design": " ♊☂",
+        "rightside_design": " ☂♊",
+        "symbol": "모"
     },
     {
         "id": "138",
-        "leftside_design": "\ud83c\udf82\ud83e\udd73\u30df\ud83d\udc96 ",
-        "rightside_design": "\ud83d\udc96\u5f61",
-        "symbol": "\ud83c\udf81\ud83c\udf81"
+        "leftside_design": "🎂🥳ミ💖 ",
+        "rightside_design": "💖彡",
+        "symbol": "🎁🎁"
     },
     {
         "id": "139",
-        "leftside_design": "\u2584\ufe3b\u30c7\u2022\u0337 \u0337",
-        "rightside_design": "\u2550\u2550\u2501\u4e00",
+        "leftside_design": "▄︻デ•̷ ̷",
+        "rightside_design": "══━一",
         "symbol": ""
     },
     {
         "id": "140",
-        "leftside_design": "\ud83c\udfa7",
-        "rightside_design": "\ud83c\udfa7",
-        "symbol": "\u1d2c\u1d3a\u1d33\u1d31\u1d38\u265c"
+        "leftside_design": "🎧",
+        "rightside_design": "🎧",
+        "symbol": "ᴬᴺᴳᴱᴸ♜"
     },
     {
         "id": "141",
-        "leftside_design": "\u2605\u1d2e\u1d3c\u02e2\u02e2 ",
+        "leftside_design": "★ᴮᴼˢˢ ",
         "rightside_design": "",
-        "symbol": "\ud83d\udc4a"
+        "symbol": "👊"
     },
     {
         "id": "142",
-        "leftside_design": "\u0f12",
-        "rightside_design": "\u1d2e\u1d3c\u02e2\u02e2\u0f12",
+        "leftside_design": "༒",
+        "rightside_design": "ᴮᴼˢˢ༒",
         "symbol": ""
     },
     {
         "id": "143",
-        "leftside_design": "\t\u2606\u0f12",
-        "rightside_design": "\u0f12\u2606",
+        "leftside_design": "\t☆༒",
+        "rightside_design": "༒☆",
         "symbol": ""
     },
     {
         "id": "144",
-        "leftside_design": "\u0fd0\u2668\u1d3f\u1d31",
-        "rightside_design": "\u0fd0",
-        "symbol": "\u2120\u00d7\u035c\u00d7 "
+        "leftside_design": "࿐♨ᴿᴱ",
+        "rightside_design": "࿐",
+        "symbol": "℠×͜× "
     },
     {
         "id": "145",
-        "leftside_design": "\u1d3c\u1d3e",
-        "rightside_design": "\u2079\u2079\u2079\u26a1",
+        "leftside_design": "ᴼᴾ",
+        "rightside_design": "⁹⁹⁹⚡",
         "symbol": ""
     },
     {
         "id": "146",
-        "leftside_design": "\u13a7\u13ae\u30e1",
-        "rightside_design": "\u0fd0\u2077\u2077\u2077",
+        "leftside_design": "ᎧᎮメ",
+        "rightside_design": "࿐⁷⁷⁷",
         "symbol": ""
     },
     {
         "id": "147",
-        "leftside_design": "\ua9c1\u0f3a\u265b\u2022",
-        "rightside_design": "\u2022\u265b\u0f3b\ua9c2",
+        "leftside_design": "꧁༺♛•",
+        "rightside_design": "•♛༻꧂",
         "symbol": ""
     },
     {
         "id": "148",
-        "leftside_design": "\u1d30\u1d43\u02b3\u1d4f\u0714",
-        "rightside_design": "\u2764\ufe0f",
+        "leftside_design": "ᴰᵃʳᵏܔ",
+        "rightside_design": "❤️",
         "symbol": ""
     },
     {
         "id": "149",
-        "leftside_design": "\u2022\u2661\ud83c\udf3b",
-        "rightside_design": "\u2022\u2661\ud83c\udf3b",
-        "symbol": "\u2694\u2694"
+        "leftside_design": "•♡🌻",
+        "rightside_design": "•♡🌻",
+        "symbol": "⚔⚔"
     },
     {
         "id": "150",
-        "leftside_design": "\u25e4\u2694\u2022",
-        "rightside_design": "\u2022\u2694\u25e2",
+        "leftside_design": "◤⚔•",
+        "rightside_design": "•⚔◢",
         "symbol": ""
     },
     {
         "id": "151",
-        "leftside_design": "||\u2664",
-        "rightside_design": "~~\u2664",
-        "symbol": "\ud83d\udc78\ud83d\udc78"
+        "leftside_design": "||♤",
+        "rightside_design": "~~♤",
+        "symbol": "👸👸"
     },
     {
         "id": "152",
-        "leftside_design": "\u1d33\u1d52\u1d48\u272a\u0f3c",
-        "rightside_design": "\u0f3d\u1d3e\u1d3f\u1d3c\u30c4",
-        "symbol": "\ud83d\udd25\ud83d\udd25"
+        "leftside_design": "ᴳᵒᵈ✪༼",
+        "rightside_design": "༽ᴾᴿᴼツ",
+        "symbol": "🔥🔥"
     },
     {
         "id": "153",
-        "leftside_design": "\u2570\u2606\u2606",
-        "rightside_design": "\u2606\u2606\u256e",
+        "leftside_design": "╰☆☆",
+        "rightside_design": "☆☆╮",
         "symbol": ""
     },
     {
         "id": "154",
-        "leftside_design": "\ud80c\ude88\ud808\udd9c",
-        "rightside_design": "\ud808\udd9c\ud80c\ude89",
-        "symbol": "\u4e97"
+        "leftside_design": "𓊈𒆜",
+        "rightside_design": "𒆜𓊉",
+        "symbol": "亗"
     },
     {
         "id": "155",
-        "leftside_design": "\u2605\u2605\u265b\u30e1",
-        "rightside_design": "\u30e1\u265b\u2605\u2605",
-        "symbol": "\u2618"
+        "leftside_design": "★★♛メ",
+        "rightside_design": "メ♛★★",
+        "symbol": "☘"
     },
     {
         "id": "157",
-        "leftside_design": "\ua9c1\u0f12\u06dd\u2665",
-        "rightside_design": " \u2665\u06dd\u0f12\ua9c2",
-        "symbol": "\ud83d\ude0e\ud83d\ude0e"
+        "leftside_design": "꧁༒۝♥",
+        "rightside_design": " ♥۝༒꧂",
+        "symbol": "😎😎"
     },
     {
         "id": "158",
-        "leftside_design": "\ud83d\udc1d\ud83d\udc51",
-        "rightside_design": " \ud83d\udc51\ud83d\udc1d",
-        "symbol": "\ud83e\udd75\ud83e\udd75"
+        "leftside_design": "🐝👑",
+        "rightside_design": " 👑🐝",
+        "symbol": "🥵🥵"
     },
     {
         "id": "159",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u2744\ufe0f\u2744\ufe0f"
+        "symbol": "❄️❄️"
     },
     {
         "id": "160",
-        "leftside_design": "\u0f04\u2765\ufe0e",
-        "rightside_design": "\u2654\ufe0e\u2042",
-        "symbol": "\ud83c\udf39\ud83c\udf39"
+        "leftside_design": "༄❥︎",
+        "rightside_design": "♔︎⁂",
+        "symbol": "🌹🌹"
     },
     {
         "id": "161",
-        "leftside_design": "\ud83c\udfc6\u20df\u20dd\ud83d\udc98",
-        "rightside_design": "\u2763\ufe0f\u2765\u20df\u17da\u2765",
-        "symbol": "\ud83d\udc78\ud83d\udc78"
+        "leftside_design": "🏆⃟⃝💘",
+        "rightside_design": "❣️❥⃟៚❥",
+        "symbol": "👸👸"
     },
     {
         "id": "162",
-        "leftside_design": "\ud808\udd9c ",
-        "rightside_design": "\ud808\udd9c",
-        "symbol": "\u2661"
+        "leftside_design": "𒆜 ",
+        "rightside_design": "𒆜",
+        "symbol": "♡"
     },
     {
         "id": "163",
-        "leftside_design": "\u0f12 \u273f",
-        "rightside_design": "\u0f12",
-        "symbol": "\u2079\u2079\u2079\u207a"
+        "leftside_design": "༒ ✿",
+        "rightside_design": "༒",
+        "symbol": "⁹⁹⁹⁺"
     },
     {
         "id": "164",
-        "leftside_design": "\u00b0\u2713",
-        "rightside_design": "\u00b0\u2713",
-        "symbol": "\u1d30\u1d43\u02b3\u1d4f\u0714"
+        "leftside_design": "°✓",
+        "rightside_design": "°✓",
+        "symbol": "ᴰᵃʳᵏܔ"
     },
     {
         "id": "165",
-        "leftside_design": "\u2661\ud83d\udc51^",
-        "rightside_design": "^ \ud83d\udc51\u2661\ufe0e",
-        "symbol": "\u2122"
+        "leftside_design": "♡👑^",
+        "rightside_design": "^ 👑♡︎",
+        "symbol": "™"
     },
     {
         "id": "166",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\udc7d\ud83d\udc7d"
+        "symbol": "👽👽"
     },
     {
         "id": "168",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\udca9\ud83d\udca9"
+        "symbol": "💩💩"
     },
     {
         "id": "169",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\udcaf"
+        "symbol": "💯"
     },
     {
         "id": "170",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\udc7d\ud83d\udc7d"
+        "symbol": "👽👽"
     },
     {
         "id": "171",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u25fe\u25fe"
+        "symbol": "◾◾"
     },
     {
         "id": "172",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u26a0\ufe0f\u26a0\ufe0f"
+        "symbol": "⚠️⚠️"
     },
     {
         "id": "173",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83c\udff4\u200d\u2620\ufe0f\ud83c\udff4\u200d\u2620\ufe0f"
+        "symbol": "🏴‍☠️🏴‍☠️"
     },
     {
         "id": "174",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f"
+        "symbol": "🏳️‍⚧️🏳️‍⚧️"
     },
     {
         "id": "175",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\udea9\ud83d\udea9"
+        "symbol": "🚩🚩"
     },
     {
         "id": "176",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+        "symbol": "🏳️‍🌈🏳️‍🌈"
     },
     {
         "id": "177",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83c\udf8c\ud83c\udf8c"
+        "symbol": "🎌🎌"
     },
     {
         "id": "178",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f"
+        "symbol": "🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿"
     },
     {
         "id": "179",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\udcb7\ud83d\udcb7"
+        "symbol": "💷💷"
     },
     {
         "id": "180",
-        "leftside_design": "\ua9c1\ud808\ude1e",
-        "rightside_design": "\ud808\ude1e\ua9c2",
+        "leftside_design": "꧁𒈞",
+        "rightside_design": "𒈞꧂",
         "symbol": ""
     },
     {
         "id": "181",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u1da0\u1da0"
+        "symbol": "ᶠᶠ"
     },
     {
         "id": "182",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u2084\u2082\u2080"
+        "symbol": "₄₂₀"
     },
     {
         "id": "183",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u1da6\u1db0\u1d48"
+        "symbol": "ᶦᶰᵈ"
     },
     {
         "id": "184",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "7\u1d58\u1d56\u1b44"
+        "symbol": "7ᵘᵖ᭄"
     },
     {
         "id": "185",
         "leftside_design": "__ || _\" ",
         "rightside_design": " \"_ ||__",
-        "symbol": " \u00bb\u00bb\u2014\u2014\u235f\u2014\u2014\u00ab\u00ab"
+        "symbol": " »»——⍟——««"
     },
     {
         "id": "186",
-        "leftside_design": "\u4e97\uff2d\uff52\u300e",
-        "rightside_design": "\u300f\uff2f\uff30\u4e97",
-        "symbol": "\u2620\ufe0f"
+        "leftside_design": "亗Ｍｒ『",
+        "rightside_design": "』ＯＰ亗",
+        "symbol": "☠️"
     },
     {
         "id": "187",
-        "leftside_design": "\u300b\u2022",
-        "rightside_design": "\u2022\u300a",
+        "leftside_design": "》•",
+        "rightside_design": "•《",
         "symbol": ""
     },
     {
         "id": "188",
-        "leftside_design": "\u262c\u0f12",
-        "rightside_design": "\u0f12\u262c",
+        "leftside_design": "☬༒",
+        "rightside_design": "༒☬",
         "symbol": ""
     },
     {
         "id": "190",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u26b0\ufe0f\u26b0\ufe0f"
+        "symbol": "⚰️⚰️"
     },
     {
         "id": "191",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\udd0b\ud83d\udd0b"
+        "symbol": "🔋🔋"
     },
     {
         "id": "192",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\u0e3f\u0e3f"
+        "symbol": "฿฿"
     },
     {
         "id": "193",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\udc80\ud83d\udc80"
+        "symbol": "💀💀"
     },
     {
         "id": "194",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83e\uddf1\ud83e\uddf1"
+        "symbol": "🧱🧱"
     },
     {
         "id": "195",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83c\udfb6"
+        "symbol": "🎶"
     },
     {
         "id": "196",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83d\ude08\ud83d\ude08"
+        "symbol": "😈😈"
     },
     {
         "id": "197",
         "leftside_design": "",
         "rightside_design": "",
-        "symbol": "\ud83c\udfc5\ud83c\udfc5"
+        "symbol": "🏅🏅"
     },
     {
         "id": "198",
         "leftside_design": "",
         "rightside_design": "",
         "symbol": ""
+    },
+    {
+        "id": 111,
+        "leftside_design": "aaiji",
+        "rightside_design": "navi ",
+        "symbol": "entery"
     }
 ]
