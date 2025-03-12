@@ -1024,5 +1024,11 @@
         "leftside_design": "",
         "rightside_design": "",
         "symbol": "♂"
+    },
+    {
+        "id": 172,
+        "leftside_design": "",
+        "rightside_design": "",
+        "symbol": "♀"
     }
 ]
