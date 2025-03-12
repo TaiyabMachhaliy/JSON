@@ -922,5 +922,11 @@
         "leftside_design": "",
         "rightside_design": "",
         "symbol": "車"
+    },
+    {
+        "id": 155,
+        "leftside_design": "",
+        "rightside_design": "",
+        "symbol": "人"
     }
 ]
