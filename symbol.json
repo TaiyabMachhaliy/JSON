@@ -1288,5 +1288,11 @@
         "leftside_design": "車",
         "rightside_design": "車",
         "symbol": ""
+    },
+    {
+        "id": 216,
+        "leftside_design": "天",
+        "rightside_design": "天",
+        "symbol": ""
     }
 ]
