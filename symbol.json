@@ -1252,5 +1252,11 @@
         "leftside_design": "♡♡",
         "rightside_design": "♡♡",
         "symbol": "⩾⩽"
+    },
+    {
+        "id": 210,
+        "leftside_design": "▲▲",
+        "rightside_design": "▼▼",
+        "symbol": "□"
     }
 ]
