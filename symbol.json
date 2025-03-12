@@ -664,5 +664,11 @@
         "leftside_design": "aaiji",
         "rightside_design": "navi ",
         "symbol": "entery"
+    },
+    {
+        "id": 112,
+        "leftside_design": "sdsd",
+        "rightside_design": "sdsds",
+        "symbol": "dsdsds"
     }
 ]
