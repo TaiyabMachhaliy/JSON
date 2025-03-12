@@ -1258,5 +1258,11 @@
         "leftside_design": "▲▲",
         "rightside_design": "▼▼",
         "symbol": "□"
+    },
+    {
+        "id": 211,
+        "leftside_design": "(✖️_✖️)",
+        "rightside_design": "(✖️_✖️)",
+        "symbol": "∀"
     }
 ]
