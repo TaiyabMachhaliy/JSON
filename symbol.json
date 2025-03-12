@@ -670,5 +670,11 @@
         "leftside_design": "sdsd",
         "rightside_design": "sdsds",
         "symbol": "dsdsds"
+    },
+    {
+        "id": 113,
+        "leftside_design": "lat navi entery",
+        "rightside_design": "lat navi entery",
+        "symbol": "lat navi entery"
     }
 ]
