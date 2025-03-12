@@ -1294,5 +1294,11 @@
         "leftside_design": "天",
         "rightside_design": "天",
         "symbol": ""
+    },
+    {
+        "id": 217,
+        "leftside_design": "日",
+        "rightside_design": "日",
+        "symbol": ""
     }
 ]
