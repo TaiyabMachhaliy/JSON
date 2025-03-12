@@ -1000,5 +1000,11 @@
         "leftside_design": "",
         "rightside_design": "",
         "symbol": "€"
+    },
+    {
+        "id": 168,
+        "leftside_design": "",
+        "rightside_design": "",
+        "symbol": "¥"
     }
 ]
