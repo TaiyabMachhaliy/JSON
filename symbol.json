@@ -1066,5 +1066,11 @@
         "leftside_design": "",
         "rightside_design": "",
         "symbol": "✪"
+    },
+    {
+        "id": 179,
+        "leftside_design": "",
+        "rightside_design": "",
+        "symbol": "▼"
     }
 ]
