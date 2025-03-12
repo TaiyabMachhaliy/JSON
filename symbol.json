@@ -712,5 +712,11 @@
         "leftside_design": "♞",
         "rightside_design": "",
         "symbol": ""
+    },
+    {
+        "id": 120,
+        "leftside_design": "",
+        "rightside_design": "",
+        "symbol": "⌘"
     }
 ]
