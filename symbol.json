@@ -1300,5 +1300,11 @@
         "leftside_design": "日",
         "rightside_design": "日",
         "symbol": ""
+    },
+    {
+        "id": 218,
+        "leftside_design": "♬",
+        "rightside_design": "♬",
+        "symbol": ""
     }
 ]
