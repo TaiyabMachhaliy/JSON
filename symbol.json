@@ -1270,5 +1270,11 @@
         "leftside_design": "▁ ▂ ▄ ▅ ▆ ▇ █",
         "rightside_design": "█ ▇ ▆ ▅ ▄ ▂ ▁",
         "symbol": "♞"
+    },
+    {
+        "id": 213,
+        "leftside_design": "▄︻┻",
+        "rightside_design": "︻┳═─",
+        "symbol": "⌘"
     }
 ]
