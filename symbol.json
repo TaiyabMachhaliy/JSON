@@ -1282,5 +1282,11 @@
         "leftside_design": "╚»★«╝",
         "rightside_design": "╚»★«╝",
         "symbol": ""
+    },
+    {
+        "id": 215,
+        "leftside_design": "車",
+        "rightside_design": "車",
+        "symbol": ""
     }
 ]
