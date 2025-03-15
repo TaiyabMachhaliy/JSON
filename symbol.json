@@ -2194,5 +2194,11 @@
         "leftside_design": "₲",
         "rightside_design": "₲",
         "symbol": "₲₲"
+    },
+    {
+        "id": 367,
+        "leftside_design": "₮",
+        "rightside_design": "₮",
+        "symbol": "₮"
     }
 ]
