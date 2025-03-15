@@ -2182,5 +2182,11 @@
         "leftside_design": "Ψ",
         "rightside_design": "Ψ",
         "symbol": "ΨΨ"
+    },
+    {
+        "id": 365,
+        "leftside_design": "✕",
+        "rightside_design": "✕",
+        "symbol": "✕✕"
     }
 ]
