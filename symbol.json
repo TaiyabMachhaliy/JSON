@@ -1324,5 +1324,11 @@
         "leftside_design": "⊳",
         "rightside_design": "⊲",
         "symbol": "☷"
+    },
+    {
+        "id": 222,
+        "leftside_design": "───⋆⋅☆⋅⋆─── ",
+        "rightside_design": "───⋆⋅☆⋅⋆─── ",
+        "symbol": "𖤐"
     }
 ]
