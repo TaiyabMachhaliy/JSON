@@ -2224,5 +2224,11 @@
         "leftside_design": "¤",
         "rightside_design": "¤",
         "symbol": "¤¤"
+    },
+    {
+        "id": 372,
+        "leftside_design": "ヅ",
+        "rightside_design": "ヅ",
+        "symbol": "ヅ"
     }
 ]
