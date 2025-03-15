@@ -2212,5 +2212,11 @@
         "leftside_design": "฿",
         "rightside_design": "฿",
         "symbol": "฿฿"
+    },
+    {
+        "id": 370,
+        "leftside_design": "₩",
+        "rightside_design": "₩",
+        "symbol": "₩₩"
     }
 ]
