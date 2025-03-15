@@ -1612,5 +1612,11 @@
         "leftside_design": "□□□□□0%",
         "rightside_design": "■■■■■100%",
         "symbol": "ඞඞ"
+    },
+    {
+        "id": 270,
+        "leftside_design": "▲",
+        "rightside_design": "▼",
+        "symbol": "ᶻzᶻz"
     }
 ]
