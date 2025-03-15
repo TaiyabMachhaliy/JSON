@@ -2344,5 +2344,11 @@
         "leftside_design": "╰☆☆",
         "rightside_design": "☆☆╮",
         "symbol": ""
+    },
+    {
+        "id": 392,
+        "leftside_design": "🙢",
+        "rightside_design": "🙢",
+        "symbol": "🙢🙢"
     }
 ]
