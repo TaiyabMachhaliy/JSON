@@ -1552,5 +1552,11 @@
         "leftside_design": " ——— ≪ ",
         "rightside_design": " ≫ ——— ",
         "symbol": ""
+    },
+    {
+        "id": 260,
+        "leftside_design": " ⸦ ⸧ׅׄ⸦ ⸧ׅׄ⸦ ",
+        "rightside_design": " ⸧ׅׄ⸦ ⸧ׅׄ⸦ ⸧ׅׄ ",
+        "symbol": ""
     }
 ]
