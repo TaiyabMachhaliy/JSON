@@ -2200,5 +2200,11 @@
         "leftside_design": "₮",
         "rightside_design": "₮",
         "symbol": "₮"
+    },
+    {
+        "id": 368,
+        "leftside_design": "¥",
+        "rightside_design": "¥",
+        "symbol": "¥"
     }
 ]
