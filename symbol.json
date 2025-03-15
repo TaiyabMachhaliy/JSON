@@ -2290,5 +2290,11 @@
         "leftside_design": "♂",
         "rightside_design": "♂",
         "symbol": "♂♂"
+    },
+    {
+        "id": 383,
+        "leftside_design": "🕱",
+        "rightside_design": "🕱",
+        "symbol": "🕱"
     }
 ]
