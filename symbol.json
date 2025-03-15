@@ -1480,5 +1480,11 @@
         "leftside_design": "𒈞",
         "rightside_design": "𒈞",
         "symbol": "❰❰❰❰"
+    },
+    {
+        "id": 248,
+        "leftside_design": "⫷",
+        "rightside_design": "⫸",
+        "symbol": "[-_-]"
     }
 ]
