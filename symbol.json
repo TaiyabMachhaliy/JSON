@@ -2260,5 +2260,11 @@
         "leftside_design": "⌆",
         "rightside_design": "⌆",
         "symbol": "⌆⌆"
+    },
+    {
+        "id": 378,
+        "leftside_design": "⌘",
+        "rightside_design": "⌘",
+        "symbol": "⌘⌘"
     }
 ]
