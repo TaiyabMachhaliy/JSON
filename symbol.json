@@ -1696,5 +1696,11 @@
         "leftside_design": "☛",
         "rightside_design": "☚",
         "symbol": "♡♡"
+    },
+    {
+        "id": 284,
+        "leftside_design": "",
+        "rightside_design": "",
+        "symbol": "𒆜𒆜"
     }
 ]
