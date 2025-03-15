@@ -2254,5 +2254,11 @@
         "leftside_design": "웃",
         "rightside_design": "웃",
         "symbol": "웃웃"
+    },
+    {
+        "id": 377,
+        "leftside_design": "⌆",
+        "rightside_design": "⌆",
+        "symbol": "⌆⌆"
     }
 ]
