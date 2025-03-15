@@ -1384,5 +1384,11 @@
         "leftside_design": "┊     ┊     ☪",
         "rightside_design": "┊     ┊     ☪",
         "symbol": "🟐"
+    },
+    {
+        "id": 232,
+        "leftside_design": "𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓇼",
+        "rightside_design": "𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓇼",
+        "symbol": "⍟"
     }
 ]
