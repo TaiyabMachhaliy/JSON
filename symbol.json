@@ -2266,5 +2266,11 @@
         "leftside_design": "⌘",
         "rightside_design": "⌘",
         "symbol": "⌘⌘"
+    },
+    {
+        "id": 379,
+        "leftside_design": "©",
+        "rightside_design": "©",
+        "symbol": "©©"
     }
 ]
