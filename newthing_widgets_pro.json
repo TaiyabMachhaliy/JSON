@@ -1,9 +1,17 @@
 {
   "title": "What's New",
   "items": [
+     {
+      "version": "1.3",
+      "date": "Live Now",
+      "changes": [
+        "8+ new widgets added",
+        "Bug fixes & performance boosts",
+      ]
+    },
     {
       "version": "1.2",
-      "date": "Live Now",
+      "date": "",
       "changes": [
         "12/24-hour clock support",
         "Fahrenheit & Celsius options",
