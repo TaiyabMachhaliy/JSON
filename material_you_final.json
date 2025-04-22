@@ -1,0 +1,388 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Amoled",
+      "category_image": "https://i.imgur.com/eIIgghu.png"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Stock",
+      "category_image": "https://i.imgur.com/sn8hgw0.png"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Minimal",
+      "category_image": "https://i.imgur.com/kCFXW5s.png"
+    },
+    {
+      "category_id": 4,
+      "category_name": "Abstract",
+      "category_image": "https://i.imgur.com/cbGpsCv.png"
+    },
+    {
+      "category_id": 5,
+      "category_name": "Nature",
+      "category_image": "https://i.imgur.com/Eh77lYL.png"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": 50,
+      "name": "Wallpaper 50",
+      "image_url": "https://i.imgur.com/eIIgghu.png",
+      "thumbnail_url": "https://i.imgur.com/eIIgghuh.png",
+      "category_ids": [1]
+    },
+    {
+      "id": 49,
+      "name": "Wallpaper 49",
+      "image_url": "https://i.imgur.com/sn8hgw0.png",
+      "thumbnail_url": "https://i.imgur.com/sn8hgw0h.png",
+      "category_ids": [1, 2]
+    },
+    {
+      "id": 48,
+      "name": "Wallpaper 48",
+      "image_url": "https://i.imgur.com/kCFXW5s.png",
+      "thumbnail_url": "https://i.imgur.com/kCFXW5sh.png",
+      "category_ids": [3]
+    },
+    {
+      "id": 47,
+      "name": "Wallpaper 47",
+      "image_url": "https://i.imgur.com/cbGpsCv.png",
+      "thumbnail_url": "https://i.imgur.com/cbGpsCvh.png",
+      "category_ids": [4]
+    },
+    {
+      "id": 46,
+      "name": "Wallpaper 46",
+      "image_url": "https://i.imgur.com/Eh77lYL.png",
+      "thumbnail_url": "https://i.imgur.com/Eh77lYLh.png",
+      "category_ids": [5]
+    },
+    {
+      "id": 45,
+      "name": "Wallpaper 45",
+      "image_url": "https://i.imgur.com/gg5FmLl.png",
+      "thumbnail_url": "https://i.imgur.com/gg5FmLlh.png",
+      "category_ids": [3, 2]
+    },
+    {
+      "id": 44,
+      "name": "Wallpaper 44",
+      "image_url": "https://i.imgur.com/uVYyzo3.png",
+      "thumbnail_url": "https://i.imgur.com/uVYyzo3h.png",
+      "category_ids": [1]
+    },
+    {
+      "id": 43,
+      "name": "Wallpaper 43",
+      "image_url": "https://i.imgur.com/ZG3QBoZ.png",
+      "thumbnail_url": "https://i.imgur.com/ZG3QBoZh.png",
+      "category_ids": [2]
+    },
+    {
+      "id": 42,
+      "name": "Wallpaper 42",
+      "image_url": "https://i.imgur.com/bDeqaUh.png",
+      "thumbnail_url": "https://i.imgur.com/bDeqaUhh.png",
+      "category_ids": [3]
+    },
+    {
+      "id": 41,
+      "name": "Wallpaper 41",
+      "image_url": "https://i.imgur.com/XYz4xqG.png",
+      "thumbnail_url": "https://i.imgur.com/XYz4xqGh.png",
+      "category_ids": [2, 4]
+    },
+    {
+      "id": 40,
+      "name": "Wallpaper 40",
+      "image_url": "https://i.imgur.com/YOBimWv.png",
+      "thumbnail_url": "https://i.imgur.com/YOBimWvh.png",
+      "category_ids": [4]
+    },
+    {
+      "id": 39,
+      "name": "Wallpaper 39",
+      "image_url": "https://i.imgur.com/s1Jvscx.png",
+      "thumbnail_url": "https://i.imgur.com/s1Jvscxh.png",
+      "category_ids": [3]
+    },
+    {
+      "id": 38,
+      "name": "Wallpaper 38",
+      "image_url": "https://i.imgur.com/FVrH7cT.jpg",
+      "thumbnail_url": "https://i.imgur.com/FVrH7cTh.jpg",
+      "category_ids": [5]
+    },
+    {
+      "id": 37,
+      "name": "Wallpaper 37",
+      "image_url": "https://i.imgur.com/DAfcjv7.png",
+      "thumbnail_url": "https://i.imgur.com/DAfcjv7h.png",
+      "category_ids": [1, 3, 4]
+    },
+    {
+      "id": 36,
+      "name": "Wallpaper 36",
+      "image_url": "https://i.imgur.com/RXDuRzB.png",
+      "thumbnail_url": "https://i.imgur.com/RXDuRzBh.png",
+      "category_ids": [2]
+    },
+    {
+      "id": 35,
+      "name": "Wallpaper 35",
+      "image_url": "https://i.imgur.com/uevFXYA.png",
+      "thumbnail_url": "https://i.imgur.com/uevFXYAh.png",
+      "category_ids": [3]
+    },
+    {
+      "id": 34,
+      "name": "Wallpaper 34",
+      "image_url": "https://i.imgur.com/poUuDtJ.png",
+      "thumbnail_url": "https://i.imgur.com/poUuDtJh.png",
+      "category_ids": [4, 2]
+    },
+    {
+      "id": 33,
+      "name": "Wallpaper 33",
+      "image_url": "https://i.imgur.com/yJowrxD.png",
+      "thumbnail_url": "https://i.imgur.com/yJowrxDh.png",
+      "category_ids": [5]
+    },
+    {
+      "id": 32,
+      "name": "Wallpaper 32",
+      "image_url": "https://i.imgur.com/XSKDhKw.png",
+      "thumbnail_url": "https://i.imgur.com/XSKDhKwh.png",
+      "category_ids": [1]
+    },
+    {
+      "id": 31,
+      "name": "Wallpaper 31",
+      "image_url": "https://i.imgur.com/HuXqyH1.png",
+      "thumbnail_url": "https://i.imgur.com/HuXqyH1h.png",
+      "category_ids": [2, 3, 5]
+    },
+    {
+      "id": 30,
+      "name": "Wallpaper 30",
+      "image_url": "https://i.imgur.com/NJO72F1.png",
+      "thumbnail_url": "https://i.imgur.com/NJO72F1h.png",
+      "category_ids": [3]
+    },
+    {
+      "id": 29,
+      "name": "Wallpaper 29",
+      "image_url": "https://i.imgur.com/UHpfWbd.png",
+      "thumbnail_url": "https://i.imgur.com/UHpfWbdh.png",
+      "category_ids": [4]
+    },
+    {
+      "id": 28,
+      "name": "Wallpaper 28",
+      "image_url": "https://i.imgur.com/857pSW1.jpg",
+      "thumbnail_url": "https://i.imgur.com/857pSW1h.jpg",
+      "category_ids": [5, 2]
+    },
+    {
+      "id": 27,
+      "name": "Wallpaper 27",
+      "image_url": "https://i.imgur.com/J1ydg8u.jpg",
+      "thumbnail_url": "https://i.imgur.com/J1ydg8uh.jpg",
+      "category_ids": [1]
+    },
+    {
+      "id": 26,
+      "name": "Wallpaper 26",
+      "image_url": "https://i.imgur.com/gGmVAmG.jpg",
+      "thumbnail_url": "https://i.imgur.com/gGmVAmGh.jpg",
+      "category_ids": [2]
+    },
+    {
+      "id": 25,
+      "name": "Wallpaper 25",
+      "image_url": "https://i.imgur.com/RMNOOMh.jpg",
+      "thumbnail_url": "https://i.imgur.com/RMNOOMhh.jpg",
+      "category_ids": [3, 5, 1]
+    },
+    {
+      "id": 24,
+      "name": "Wallpaper 24",
+      "image_url": "https://i.imgur.com/zKUw0fw.jpg",
+      "thumbnail_url": "https://i.imgur.com/zKUw0fwh.jpg",
+      "category_ids": [4]
+    },
+    {
+      "id": 23,
+      "name": "Wallpaper 23",
+      "image_url": "https://i.imgur.com/BsHwi7K.jpg",
+      "thumbnail_url": "https://i.imgur.com/BsHwi7Kh.jpg",
+      "category_ids": [5]
+    },
+    {
+      "id": 22,
+      "name": "Wallpaper 22",
+      "image_url": "https://i.imgur.com/klDykQ6.jpg",
+      "thumbnail_url": "https://i.imgur.com/klDykQ6h.jpg",
+      "category_ids": [1]
+    },
+    {
+      "id": 21,
+      "name": "Wallpaper 21",
+      "image_url": "https://i.imgur.com/EfDqSRl.jpg",
+      "thumbnail_url": "https://i.imgur.com/EfDqSRlh.jpg",
+      "category_ids": [2]
+    },
+    {
+      "id": 20,
+      "name": "Wallpaper 20",
+      "image_url": "https://i.imgur.com/gga8o19.jpg",
+      "thumbnail_url": "https://i.imgur.com/gga8o19h.jpg",
+      "category_ids": [3]
+    },
+    {
+      "id": 19,
+      "name": "Wallpaper 19",
+      "image_url": "https://i.imgur.com/4UiAeWK.jpg",
+      "thumbnail_url": "https://i.imgur.com/4UiAeWKh.jpg",
+      "category_ids": [4, 2, 5]
+    },
+    {
+      "id": 18,
+      "name": "Wallpaper 18",
+      "image_url": "https://i.imgur.com/jPSYKE8.jpg",
+      "thumbnail_url": "https://i.imgur.com/jPSYKE8h.jpg",
+      "category_ids": [5]
+    },
+    {
+      "id": 17,
+      "name": "Wallpaper 17",
+      "image_url": "https://i.imgur.com/BZsjKyH.png",
+      "thumbnail_url": "https://i.imgur.com/BZsjKyHh.png",
+      "category_ids": [1]
+    },
+    {
+      "id": 16,
+      "name": "Wallpaper 16",
+      "image_url": "https://i.imgur.com/wifYVV6.jpg",
+      "thumbnail_url": "https://i.imgur.com/wifYVV6h.jpg",
+      "category_ids": [2, 1]
+    },
+    {
+      "id": 15,
+      "name": "Wallpaper 15",
+      "image_url": "https://i.imgur.com/iOzgHUv.jpg",
+      "thumbnail_url": "https://i.imgur.com/iOzgHUvh.jpg",
+      "category_ids": [3]
+    },
+    {
+      "id": 14,
+      "name": "Wallpaper 14",
+      "image_url": "https://i.imgur.com/WWIvISq.jpg",
+      "thumbnail_url": "https://i.imgur.com/WWIvISqh.jpg",
+      "category_ids": [4]
+    },
+    {
+      "id": 13,
+      "name": "Wallpaper 13",
+      "image_url": "https://i.imgur.com/DbBII7J.jpg",
+      "thumbnail_url": "https://i.imgur.com/DbBII7Jh.jpg",
+      "category_ids": [5]
+    },
+    {
+      "id": 12,
+      "name": "Wallpaper 12",
+      "image_url": "https://i.imgur.com/vMxy8dw.jpg",
+      "thumbnail_url": "https://i.imgur.com/vMxy8dwh.jpg",
+      "category_ids": [1]
+    },
+    {
+      "id": 11,
+      "name": "Wallpaper 11",
+      "image_url": "https://i.imgur.com/ZhSjUjj.jpg",
+      "thumbnail_url": "https://i.imgur.com/ZhSjUjjh.jpg",
+      "category_ids": [2, 1, 3]
+    },
+    {
+      "id": 10,
+      "name": "Wallpaper 10",
+      "image_url": "https://i.imgur.com/ot5Z4Yz.jpg",
+      "thumbnail_url": "https://i.imgur.com/ot5Z4Yzh.jpg",
+      "category_ids": [3]
+    },
+    {
+      "id": 9,
+      "name": "Wallpaper 9",
+      "image_url": "https://i.imgur.com/IqxUu5v.jpg",
+      "thumbnail_url": "https://i.imgur.com/IqxUu5vh.jpg",
+      "category_ids": [4]
+    },
+    {
+      "id": 8,
+      "name": "Wallpaper 8",
+      "image_url": "https://i.imgur.com/kinkR9n.png",
+      "thumbnail_url": "https://i.imgur.com/kinkR9nh.png",
+      "category_ids": [5]
+    },
+    {
+      "id": 7,
+      "name": "Wallpaper 7",
+      "image_url": "https://i.imgur.com/VkTMZMK.png",
+      "thumbnail_url": "https://i.imgur.com/VkTMZMKh.png",
+      "category_ids": [1, 5]
+    },
+    {
+      "id": 6,
+      "name": "Wallpaper 6",
+      "image_url": "https://i.imgur.com/B1bnezj.png",
+      "thumbnail_url": "https://i.imgur.com/B1bnezjh.png",
+      "category_ids": [2]
+    },
+    {
+      "id": 5,
+      "name": "Wallpaper 5",
+      "image_url": "https://i.imgur.com/xW3fCyA.png",
+      "thumbnail_url": "https://i.imgur.com/xW3fCyAh.png",
+      "category_ids": [3, 2, 4]
+    },
+    {
+      "id": 4,
+      "name": "Wallpaper 4",
+      "image_url": "https://i.imgur.com/Pl49Hqk.png",
+      "thumbnail_url": "https://i.imgur.com/Pl49Hqkh.png",
+      "category_ids": [4]
+    },
+    {
+      "id": 3,
+      "name": "Wallpaper 3",
+      "image_url": "https://i.imgur.com/f0iatru.jpg",
+      "thumbnail_url": "https://i.imgur.com/f0iatruh.jpg",
+      "category_ids": [5]
+    },
+    {
+      "id": 2,
+      "name": "Wallpaper 2",
+      "image_url": "https://i.imgur.com/Cw7Z8OQ.png",
+      "thumbnail_url": "https://i.imgur.com/Cw7Z8OQh.png",
+      "category_ids": [1]
+    },
+    {
+      "id": 1,
+      "name": "Wallpaper 1",
+      "image_url": "https://i.imgur.com/dJJT0ej.jpg",
+      "thumbnail_url": "https://i.imgur.com/dJJT0ejh.jpg",
+      "category_ids": [2]
+    },
+    {
+      "id": 0,
+      "name": "Wallpaper 0",
+      "image_url": "https://i.imgur.com/epW8v3U.jpg",
+      "thumbnail_url": "https://i.imgur.com/epW8v3Uh.jpg",
+      "category_ids": [3]
+    }
+  ]
+}
