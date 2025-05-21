@@ -7,13 +7,13 @@
     },
     {
       "category_id": 2,
-      "category_name": "Blur",
-      "category_image": "https://i.imgur.com/Nuh2SRk.png"
+      "category_name": "Grainy",
+      "category_image": "https://i.imgur.com/w8zz06U.png"
     },
     {
       "category_id": 3,
-      "category_name": "Grainy",
-      "category_image": "https://i.imgur.com/w8zz06U.png"
+      "category_name": "Blur",
+      "category_image": "https://i.imgur.com/Nuh2SRk.png"
     },
     {
       "category_id": 4,
