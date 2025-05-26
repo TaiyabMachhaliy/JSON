@@ -39,6 +39,11 @@
       "category_id": 8,
       "category_name": "Flat",
       "category_image": "https://i.imgur.com/qIFQ0wV.png"
+    },
+    {
+      "category_id": 9,
+      "category_name": "Stock",
+      "category_image": "https://i.imgur.com/TpW0iL0.png"
     }
   ],
   "wallpapers": [
@@ -1371,6 +1376,356 @@
       "image_url": "https://i.imgur.com/SpfoaRE.png",
       "thumbnail_url": "https://i.imgur.com/SpfoaREh.png",
       "category_ids": [8]
+    },
+    {
+      "id": 191,
+      "name": "Stock Wallpaper 1",
+      "image_url": "https://i.imgur.com/dd0KNkr.jpg",
+      "thumbnail_url": "https://i.imgur.com/dd0KNkrh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 192,
+      "name": "Stock Wallpaper 2",
+      "image_url": "https://i.imgur.com/KIlw8LM.png",
+      "thumbnail_url": "https://i.imgur.com/KIlw8LMh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 193,
+      "name": "Stock Wallpaper 3",
+      "image_url": "https://i.imgur.com/yXyjagk.png",
+      "thumbnail_url": "https://i.imgur.com/yXyjagkh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 194,
+      "name": "Stock Wallpaper 4",
+      "image_url": "https://i.imgur.com/dMc4Tby.png",
+      "thumbnail_url": "https://i.imgur.com/dMc4Tbyh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 195,
+      "name": "Stock Wallpaper 5",
+      "image_url": "https://i.imgur.com/tUrjukb.png",
+      "thumbnail_url": "https://i.imgur.com/tUrjukbh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 196,
+      "name": "Stock Wallpaper 6",
+      "image_url": "https://i.imgur.com/QJ6gd07.png",
+      "thumbnail_url": "https://i.imgur.com/QJ6gd07h.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 197,
+      "name": "Stock Wallpaper 7",
+      "image_url": "https://i.imgur.com/V7co2Bb.jpg",
+      "thumbnail_url": "https://i.imgur.com/V7co2Bbh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 198,
+      "name": "Stock Wallpaper 8",
+      "image_url": "https://i.imgur.com/ZoeATCW.jpg",
+      "thumbnail_url": "https://i.imgur.com/ZoeATCWh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 199,
+      "name": "Stock Wallpaper 9",
+      "image_url": "https://i.imgur.com/5IcEYOh.jpg",
+      "thumbnail_url": "https://i.imgur.com/5IcEYOhh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 200,
+      "name": "Stock Wallpaper 10",
+      "image_url": "https://i.imgur.com/ekEACGr.jpg",
+      "thumbnail_url": "https://i.imgur.com/ekEACGrh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 201,
+      "name": "Stock Wallpaper 11",
+      "image_url": "https://i.imgur.com/cZ5SpmU.jpg",
+      "thumbnail_url": "https://i.imgur.com/cZ5SpmUh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 202,
+      "name": "Stock Wallpaper 12",
+      "image_url": "https://i.imgur.com/sZzI9n2.jpg",
+      "thumbnail_url": "https://i.imgur.com/sZzI9n2h.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 203,
+      "name": "Stock Wallpaper 13",
+      "image_url": "https://i.imgur.com/mRfibjN.jpg",
+      "thumbnail_url": "https://i.imgur.com/mRfibjNh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 204,
+      "name": "Stock Wallpaper 14",
+      "image_url": "https://i.imgur.com/UxSQqNu.jpg",
+      "thumbnail_url": "https://i.imgur.com/UxSQqNuh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 205,
+      "name": "Stock Wallpaper 15",
+      "image_url": "https://i.imgur.com/BYbLTcq.jpg",
+      "thumbnail_url": "https://i.imgur.com/BYbLTcqh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 206,
+      "name": "Stock Wallpaper 16",
+      "image_url": "https://i.imgur.com/KdTK9fD.jpg",
+      "thumbnail_url": "https://i.imgur.com/KdTK9fDh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 207,
+      "name": "Stock Wallpaper 17",
+      "image_url": "https://i.imgur.com/G5czw4u.jpg",
+      "thumbnail_url": "https://i.imgur.com/G5czw4uh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 208,
+      "name": "Stock Wallpaper 18",
+      "image_url": "https://i.imgur.com/lBdgeOL.jpg",
+      "thumbnail_url": "https://i.imgur.com/lBdgeOLh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 209,
+      "name": "Stock Wallpaper 19",
+      "image_url": "https://i.imgur.com/FZYE1al.jpg",
+      "thumbnail_url": "https://i.imgur.com/FZYE1alh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 210,
+      "name": "Stock Wallpaper 20",
+      "image_url": "https://i.imgur.com/j6QOluf.jpg",
+      "thumbnail_url": "https://i.imgur.com/j6QOlufh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 211,
+      "name": "Stock Wallpaper 21",
+      "image_url": "https://i.imgur.com/oK4IjjB.jpg",
+      "thumbnail_url": "https://i.imgur.com/oK4IjjBh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 212,
+      "name": "Stock Wallpaper 22",
+      "image_url": "https://i.imgur.com/oVetPRW.jpg",
+      "thumbnail_url": "https://i.imgur.com/oVetPRWh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 213,
+      "name": "Stock Wallpaper 23",
+      "image_url": "https://i.imgur.com/Mc8uKQ6.jpg",
+      "thumbnail_url": "https://i.imgur.com/Mc8uKQ6h.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 214,
+      "name": "Stock Wallpaper 24",
+      "image_url": "https://i.imgur.com/MpUrMSH.png",
+      "thumbnail_url": "https://i.imgur.com/MpUrMSHh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 215,
+      "name": "Stock Wallpaper 25",
+      "image_url": "https://i.imgur.com/SJjbgun.jpg",
+      "thumbnail_url": "https://i.imgur.com/SJjbgunh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 216,
+      "name": "Stock Wallpaper 26",
+      "image_url": "https://i.imgur.com/kLOD49G.png",
+      "thumbnail_url": "https://i.imgur.com/kLOD49Gh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 217,
+      "name": "Stock Wallpaper 27",
+      "image_url": "https://i.imgur.com/TBWZ5Fq.jpg",
+      "thumbnail_url": "https://i.imgur.com/TBWZ5Fqh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 218,
+      "name": "Stock Wallpaper 28",
+      "image_url": "https://i.imgur.com/p3xOEDB.png",
+      "thumbnail_url": "https://i.imgur.com/p3xOEDBh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 219,
+      "name": "Stock Wallpaper 29",
+      "image_url": "https://i.imgur.com/ppN88n8.jpg",
+      "thumbnail_url": "https://i.imgur.com/ppN88n8h.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 220,
+      "name": "Stock Wallpaper 30",
+      "image_url": "https://i.imgur.com/9B1hoil.png",
+      "thumbnail_url": "https://i.imgur.com/9B1hoilh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 221,
+      "name": "Stock Wallpaper 31",
+      "image_url": "https://i.imgur.com/o8yLMDo.jpg",
+      "thumbnail_url": "https://i.imgur.com/o8yLMDoh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 222,
+      "name": "Stock Wallpaper 32",
+      "image_url": "https://i.imgur.com/Wvp4BoP.png",
+      "thumbnail_url": "https://i.imgur.com/Wvp4BoPh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 223,
+      "name": "Stock Wallpaper 33",
+      "image_url": "https://i.imgur.com/HECjHub.png",
+      "thumbnail_url": "https://i.imgur.com/HECjHubh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 224,
+      "name": "Stock Wallpaper 34",
+      "image_url": "https://i.imgur.com/9hyYYb2.jpg",
+      "thumbnail_url": "https://i.imgur.com/9hyYYb2h.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 225,
+      "name": "Stock Wallpaper 35",
+      "image_url": "https://i.imgur.com/WtKlP3Q.jpg",
+      "thumbnail_url": "https://i.imgur.com/WtKlP3Qh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 226,
+      "name": "Stock Wallpaper 36",
+      "image_url": "https://i.imgur.com/qD7or3w.jpg",
+      "thumbnail_url": "https://i.imgur.com/qD7or3wh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 227,
+      "name": "Stock Wallpaper 37",
+      "image_url": "https://i.imgur.com/d0H2LjY.jpg",
+      "thumbnail_url": "https://i.imgur.com/d0H2LjYh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 228,
+      "name": "Stock Wallpaper 38",
+      "image_url": "https://i.imgur.com/j2JQ1yB.jpg",
+      "thumbnail_url": "https://i.imgur.com/j2JQ1yBh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 229,
+      "name": "Stock Wallpaper 39",
+      "image_url": "https://i.imgur.com/f5WTWml.jpg",
+      "thumbnail_url": "https://i.imgur.com/f5WTWmlh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 230,
+      "name": "Stock Wallpaper 40",
+      "image_url": "https://i.imgur.com/LRCyZXx.jpg",
+      "thumbnail_url": "https://i.imgur.com/LRCyZXxh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 231,
+      "name": "Stock Wallpaper 41",
+      "image_url": "https://i.imgur.com/hhba2fQ.png",
+      "thumbnail_url": "https://i.imgur.com/hhba2fQh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 232,
+      "name": "Stock Wallpaper 42",
+      "image_url": "https://i.imgur.com/zEoKMvY.png",
+      "thumbnail_url": "https://i.imgur.com/zEoKMvYh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 233,
+      "name": "Stock Wallpaper 43",
+      "image_url": "https://i.imgur.com/bw4c0Rc.jpg",
+      "thumbnail_url": "https://i.imgur.com/bw4c0Rch.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 234,
+      "name": "Stock Wallpaper 44",
+      "image_url": "https://i.imgur.com/krrOhNR.jpg",
+      "thumbnail_url": "https://i.imgur.com/krrOhNRh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 235,
+      "name": "Stock Wallpaper 45",
+      "image_url": "https://i.imgur.com/oi7dPpL.png",
+      "thumbnail_url": "https://i.imgur.com/oi7dPpLh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 236,
+      "name": "Stock Wallpaper 46",
+      "image_url": "https://i.imgur.com/9d1VZty.png",
+      "thumbnail_url": "https://i.imgur.com/9d1VZtyh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 237,
+      "name": "Stock Wallpaper 47",
+      "image_url": "https://i.imgur.com/lrxC2wb.png",
+      "thumbnail_url": "https://i.imgur.com/lrxC2wbh.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 238,
+      "name": "Stock Wallpaper 48",
+      "image_url": "https://i.imgur.com/zrsmSm6.png",
+      "thumbnail_url": "https://i.imgur.com/zrsmSm6h.png",
+      "category_ids": [9]
+    },
+    {
+      "id": 239,
+      "name": "Stock Wallpaper 49",
+      "image_url": "https://i.imgur.com/hhRuccG.jpg",
+      "thumbnail_url": "https://i.imgur.com/hhRuccGh.jpg",
+      "category_ids": [9]
+    },
+    {
+      "id": 240,
+      "name": "Stock Wallpaper 50",
+      "image_url": "https://i.imgur.com/LSAZg3t.jpg",
+      "thumbnail_url": "https://i.imgur.com/LSAZg3th.jpg",
+      "category_ids": [9]
     }
   ]
 }
