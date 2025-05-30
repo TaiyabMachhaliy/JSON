@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "category_id": 3,
+      "category_id": 2,
       "category_name": "Blur",
       "category_image": "https://i.imgur.com/Nuh2SRk.png"
     },
@@ -66,7 +66,7 @@
       "category_image": "https://i.imgur.com/RfkIVuK.png"
     },
     {
-      "category_id": 2,
+      "category_id": 3,
       "category_name": "Grainy",
       "category_image": "https://i.imgur.com/w8zz06U.png"
     },
@@ -2559,8 +2559,8 @@
     {
       "id": 353,
       "name": "Pattern Wallpaper 1",
-      "image_url": "https://imgur.com/fpKPyUh",
-      "thumbnail_url": "https://imgur.com/fpKPyUh",
+      "image_url": "https://i.imgur.com/fpKPyUh.png",
+      "thumbnail_url": "https://i.imgur.com/fpKPyUhh.png",
       "category_ids": [16]
     },
     {
@@ -2573,22 +2573,22 @@
     {
       "id": 355,
       "name": "Pattern Wallpaper 3",
-      "image_url": "https://imgur.com/0DMhQGn",
-      "thumbnail_url": "https://imgur.com/0DMhQGn",
+      "image_url": "https://i.imgur.com/AylYYuX.png",
+      "thumbnail_url": "https://i.imgur.com/AylYYuXh.pngn",
       "category_ids": [16]
     },
     {
       "id": 356,
       "name": "Pattern Wallpaper 4",
-      "image_url": "https://imgur.com/IgKZeNs",
-      "thumbnail_url": "https://imgur.com/IgKZeNs",
+      "image_url": "https://i.imgur.com/IgKZeNs.png",
+      "thumbnail_url": "https://i.imgur.com/IgKZeNsh.png",
       "category_ids": [16]
     },
     {
       "id": 357,
       "name": "Pattern Wallpaper 5",
-      "image_url": "https://imgur.com/JAlHLKu",
-      "thumbnail_url": "https://imgur.com/JAlHLKu",
+      "image_url": "https://i.imgur.com/JAlHLKu.png",
+      "thumbnail_url": "https://i.imgur.com/JAlHLKuh.png",
       "category_ids": [16]
     },
     {
