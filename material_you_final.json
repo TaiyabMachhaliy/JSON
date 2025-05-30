@@ -1,11 +1,6 @@
 {
   "categories": [
     {
-      "category_id": 0,
-      "category_name": "All",
-      "category_image": ""
-    },
-    {
       "category_id": 3,
       "category_name": "Blur",
       "category_image": "https://i.imgur.com/Nuh2SRk.png"
