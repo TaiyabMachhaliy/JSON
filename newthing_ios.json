@@ -4,7 +4,7 @@
     "category_id": 1,
     "category_name": "Top Choice",
     "category_image": "https://i.ibb.co/0pQ59fQj/1000-74.png",
-    "enable": true
+    "enable": false
   },
   {
     "category_id": 2,
