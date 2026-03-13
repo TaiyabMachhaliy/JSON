@@ -58,7 +58,7 @@
     "category_id": 10,
     "category_name": "Stock",
     "category_image": "https://i.ibb.co/Z1tb6wJC/stock.png",
-    "enable": true
+    "enable": false
   },
   {
     "category_id": 11,
