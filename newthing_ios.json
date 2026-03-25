@@ -4,7 +4,7 @@
     "category_id": 1,
     "category_name": "Top Choice",
     "category_image": "https://i.ibb.co/0pQ59fQj/1000-74.png",
-    "enable": false
+    "enable": true
   },
   {
     "category_id": 2,
@@ -58,7 +58,7 @@
     "category_id": 10,
     "category_name": "Stock",
     "category_image": "https://i.ibb.co/Z1tb6wJC/stock.png",
-    "enable": false
+    "enable": true
   },
   {
     "category_id": 11,
@@ -82,13 +82,13 @@
     "category_id": 14,
     "category_name": "Black",
     "category_image": "https://i.ibb.co/SX92BFwy/black.png",
-    "enable": false
+    "enable": true
   },
   {
     "category_id": 15,
     "category_name": "Cartoon",
     "category_image": "https://i.ibb.co/Fqsg1qX3/cartoon.png",
-    "enable": false
+    "enable": true
   },
   {
     "category_id": 16,
@@ -106,7 +106,7 @@
     "category_id": 18,
     "category_name": "Movie",
     "category_image": "https://i.ibb.co/vvLf8h7X/movie.png",
-    "enable": false
+    "enable": true
   },
   {
     "category_id": 19,
